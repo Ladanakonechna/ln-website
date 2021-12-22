@@ -6,8 +6,8 @@ description: >-
   In her works, Nakonechna uses various artistic means, 
   such as drawings, photographs, installations, and performances.
 
-baseurl: ""
-url: https://jor-m.github.io/ln-website/
+baseurl: "/ln-website"
+url: "https://jor-m.github.io/ln-website/"
 twitter_username: ""
 github_username:  ""
 
@@ -32,3 +32,4 @@ plugins:
 
 exclude:
   - third-party/
+  - imported/
