@@ -1,6 +1,8 @@
-- name: Home
+- name: News
   link: /
 - name: About
   link: /about/
-- name: Projects
-  link: /projects/
+- name: Works
+  link: /works/
+- name: Publcations
+  link: /publications/
