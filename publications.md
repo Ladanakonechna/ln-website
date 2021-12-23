@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Works
-permalink: /works/
+title: Publications
+permalink: /publications/
 ---
 
