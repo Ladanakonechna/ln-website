@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 #### Online articles
-"Observing the Artist as Another Object". 
+**"Observing the Artist as Another Object".** 
 Mariana Matveichuk on the practice of Lada Nakonechna. [Read here](http://www.eigen-art.com/index.php?article_id=1274&clang=1)
 <br>
 Alienation Effects. Lada Nakonechna’s Conceptual Drawings
