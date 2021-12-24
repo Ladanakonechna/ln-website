@@ -3,25 +3,25 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-## Online articles
+#### Online articles
 
 "Observing the Artist as Another Object". 
-Mariana Matveichuk on the practice of Lada Nakonechna. [Read here] (http://www.eigen-art.com/index.php?article_id=1274&clang=1)
+Mariana Matveichuk on the practice of Lada Nakonechna. [Read here](http://www.eigen-art.com/index.php?article_id=1274&clang=1)
 
 Alienation Effects. Lada Nakonechna’s Conceptual Drawings
-DB Art Mag. [Read here] (https://dbartmag.de/en/88/feature/alienation-effects-lada-nakonechnas-conceptual-drawings/)
+DB Art Mag. [Read here](https://dbartmag.de/en/88/feature/alienation-effects-lada-nakonechnas-conceptual-drawings/)
 
 **"To detail darkness"**. 
-Carolin Krahl (about the exhibition of Lada Nakonechna *Background Mode*), 2018. [Read here] (https://prostory.net.ua/en/9-publikatsii/krytyka/335-to-detail-darkness)
+Carolin Krahl (about the exhibition of Lada Nakonechna *Background Mode*), 2018. [Read here](https://prostory.net.ua/en/9-publikatsii/krytyka/335-to-detail-darkness)
 
 
-## solo catalogues/publications
+#### solo catalogues/publications
 
 **Perspektive. Lada Nakonechna**
 Universitätsbibliothek Leipzig, 2013 
 ISBN: 978-3- 910108-76-9 (DE)
 
-## group exhibition catalogues
+#### group exhibition catalogues
 
 **The World on Paper**
 Deutsche Bank Collection
@@ -49,7 +49,7 @@ Index– The Swedish Contemporary Art Foundation
 ISBN: 978-91-633-2928-9
 pp.138-143
 
-## books/publications
+#### books/publications
 
 **The Global Art Compass. New Directions in 21st- century Art.** 
 Alistair Hicks
