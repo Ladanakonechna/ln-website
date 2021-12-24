@@ -33,3 +33,5 @@ plugins:
 exclude:
   - third-party/
   - imported/
+
+permalink: pretty
