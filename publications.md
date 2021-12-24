@@ -4,24 +4,24 @@ title: Publications
 permalink: /publications/
 ---
 #### Online articles
-<br>
 "Observing the Artist as Another Object". 
 Mariana Matveichuk on the practice of Lada Nakonechna. [Read here](http://www.eigen-art.com/index.php?article_id=1274&clang=1)
 <br>
 Alienation Effects. Lada Nakonechna’s Conceptual Drawings
 DB Art Mag. [Read here](https://dbartmag.de/en/88/feature/alienation-effects-lada-nakonechnas-conceptual-drawings/)
 <br>
+
 **"To detail darkness"**. 
 Carolin Krahl (about the exhibition of Lada Nakonechna *Background Mode*), 2018. [Read here](https://prostory.net.ua/en/9-publikatsii/krytyka/335-to-detail-darkness)
 <br>
+
 #### solo catalogues/publications
-<br>
 **Perspektive. Lada Nakonechna**
 Universitätsbibliothek Leipzig, 2013 
 ISBN: 978-3- 910108-76-9 (DE)
 <br>
+
 #### group exhibition catalogues
-<br>
 **The World on Paper**
 Deutsche Bank Collection
 Palais Populaire, Berlin, 2018
@@ -48,8 +48,8 @@ Index– The Swedish Contemporary Art Foundation
 ISBN: 978-91-633-2928-9
 pp.138-143
 <br>
+
 #### books/publications
-<br>
 **The Global Art Compass. New Directions in 21st- century Art.** 
 Alistair Hicks
 Thames and Hudson, London, 2014
