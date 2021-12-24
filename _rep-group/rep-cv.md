@@ -1,6 +1,7 @@
 ---
 layout: page
 title: R.E.P. CV
+permalink: /rep-group/rep-cv/
 ---
 
 
