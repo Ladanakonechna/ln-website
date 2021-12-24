@@ -1,7 +1,6 @@
 ---
 layout: page
 title: R.E.P. Projects
-permalink: /rep-group/rep-projects.md
 ---
 
 ---
