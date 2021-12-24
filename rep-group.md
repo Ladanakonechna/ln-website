@@ -11,6 +11,6 @@ In their work, the R.E.P. group addresses a number of themes that are variously 
 
 e-mail: <revolutionaryexperimentalspace@gmail.com>
 
-[R.E.P. CV](ln-website/rep-group/rep-cv.md)
+[R.E.P. CV](/rep-cv.md)
 
-[R.E.P. Projects](ln-website/rep-group/rep-projects.md)
+[R.E.P. Projects](/ln-website/rep-group/rep-projects.md)
