@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R.E.P. CV
-permalink: /:path/:basename
+permalink: /:path/:basename/
 ---
 
 
