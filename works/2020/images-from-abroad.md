@@ -5,9 +5,8 @@ title: Images from abroad
 
 Exhibition <br>
 Galerie EIGEN + ART Berlin <br>
-January 9 – February 20, 2020 <br>
+January 9 – February 20, 2020
 
-## Images from abroad
 <br><br>
 January 2020
 <br><br>
