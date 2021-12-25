@@ -7,7 +7,7 @@ description: >-
   such as drawings, photographs, installations, and performances.
 
 baseurl: "/ln-website"
-url: "https://jor-m.github.io/ln-website/"
+url: "https://jor-m.github.io/ln-website"
 twitter_username: ""
 github_username:  ""
 
@@ -31,11 +31,8 @@ plugins:
 #   - vendor/ruby/
 
 exclude:
-  - third-party/
-  - imported/
-
-include:
-  - _works/
+  - /third-party
+  - /imported
 
 collections:
   works:
