@@ -33,3 +33,7 @@ plugins:
 exclude:
   - third-party/
   - imported/
+
+include:
+  - works/
+  - rep-group/
