@@ -34,6 +34,10 @@ exclude:
   - third-party/
   - imported/
 
-include:
-  - works/
-  - rep-group/
+collections:
+  rep-group:
+    output: true
+
+collections:
+  works:
+    output: true
