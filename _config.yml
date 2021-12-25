@@ -37,7 +37,9 @@ exclude:
 collections:
   rep-group:
     output: true
+    permalink: /:collection/:name
 
 collections:
   works:
     output: true
+    permalink: /:collection/:name
