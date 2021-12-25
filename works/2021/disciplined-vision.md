@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Disciplined Vision
+title: Disciplined vision
 ---
 
-
-Disciplined Vision <br>
 
 Exhibition <br>
 
