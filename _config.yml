@@ -35,15 +35,9 @@ exclude:
   - imported/
 
 include:
-  - _rep-group/
   - _works/
-
-collections:
-  rep-group:
-    output: true
-    permalink: /:collection/:name
 
 collections:
   works:
     output: true
-    permalink: /:collection/:name
+    permalink: /works/:name
