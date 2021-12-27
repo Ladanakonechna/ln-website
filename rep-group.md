@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R.E.P. group
-permalink: /rep-group/
+permalink: /rep-group
 ---
 
 The **R.E.P.** group **(Revolutionary Experimental Space)** was established at the end of 2004 during the Orange Revolution in Ukraine. The group initially comprised 20 artists. Since 2006 the R.E.P. group’s members are **Ksenia Hnylytska, Nikita Kadan, Lesia Khomenko, Volodymyr Kuznetsov, Zhanna Kadyrova, Lada Nakonechna**. Their work began with a series of actions united by the name *Intervention*, which appeared as a reaction to the politicized public space of “post-orange” Ukraine. The group’s subsequent activity has focused on long-term serial projects. 
@@ -11,6 +11,7 @@ In their work, the R.E.P. group addresses a number of themes that are variously 
 
 e-mail: <revolutionaryexperimentalspace@gmail.com>
 
-[R.E.P. CV](/ln-website/rep-group/rep-cv)
 
-[R.E.P. Projects](/ln-website/rep-group/rep-projects)
+[R.E.P. CV]({{ site.baseurl }}{% link rep-group/rep-cv.md %})
+
+[R.E.P. Projects]({{ site.baseurl }}{% link rep-group/rep-projects.md %})

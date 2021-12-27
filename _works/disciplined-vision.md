@@ -2,6 +2,7 @@
 layout: page
 title: Disciplined vision
 year: 2021
+thumb_url: /assets/images/thumb2.jpg
 ---
 
 

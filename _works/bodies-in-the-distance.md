@@ -2,6 +2,7 @@
 layout: page
 title: Bodies in the distance
 year: 2020
+thumb_url: /assets/images/thumb1.jpg
 ---
 
 

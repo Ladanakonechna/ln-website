@@ -1,21 +1,17 @@
 ---
 layout: page
 title: Works
-permalink: /works/
+permalink: /works
 ---
-
-## 2021
-##### Disciplined vision [>>](/ln-website/works/disciplined-vision/)
-
+## List view / [Gallery view]({{site.baseurl}}{% link gallery.md %})
+{% assign works = site.works | sort: "year" | reverse %}
+{% assign cur_year = works[0].year %}
+## {{cur_year}}
+{% for work in works %}
+  {% if cur_year != work.year %}
+    {% assign cur_year = work.year %}
 <br>
-## 2020
-##### Images from abroad [>>](/ln-website/works/images-from-abroad/)
-##### Bodies in the distance [>>](/ln-website/works/bodies-in-the-distance/)
-
-<br>
-## 2019
-##### Flags [>>](/ln-website/works/flags/)
-
-<br>
-## 2018
-##### Background mode [>>](/ln-website/works/background-mode/)
+## {{cur_year}}
+  {% endif %}
+##### {{work.title}}[>>]({{site.baseurl}}{{work.url}})
+{% endfor %}

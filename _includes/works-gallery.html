@@ -1,0 +1,8 @@
+<div class ="image-gallery">
+{% assign works = site.works | sort: 'year' | reverse %}
+{% for work in works %}
+    <div class="box"><a href="{{site.baseurl}}{{work.url}}" title="{{work.title}}">
+    <img src="{{site.baseurl}}{{work.thumb_url}}" alt="{{work.title}}"  class="img-gallery" />
+    </a></div>
+{% endfor %}
+</div>
