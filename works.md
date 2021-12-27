@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Works
-permalink: /works
+permalink: /works/
 ---
 ## List view / [Gallery view]({{site.baseurl}}{% link gallery.md %})
 {% assign works = site.works | sort: "year" | reverse %}
