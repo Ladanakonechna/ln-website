@@ -8,6 +8,9 @@ thumb_url: /assets/images/bodies-in-a-distance/skala20206.jpg
 4—26.12.2020 <br>
 Виставка/ Exhibition
 
+<br>
+![](/assets/images/bodies-in-a-distance/skala20206.jpg)
+
 <br><br>
 Opening: Friday, 4 December, g. 12pm 
 
