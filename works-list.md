@@ -4,8 +4,8 @@ title: Works
 permalink: /works-list
 ---
 
-### [Gallery view]({{site.baseurl}}{% link works.md %}) | List view
-<br>
+#### [Gallery view]({{site.baseurl}}{% link works.md %}) | List view
+
 {% assign works = site.works | sort: "year" | reverse %}
 {% assign cur_year = works[0].year %}
 ## {{cur_year}}
