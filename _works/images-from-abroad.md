@@ -2,7 +2,7 @@
 layout: page
 title: Images from abroad
 year: 2020
-thumb_url: /assets/images/thumb3.jpg
+thumb_url: /assets/images/images-from-abroad/images from abroad_marking 2.jpg
 ---
 
 Exhibition <br>
