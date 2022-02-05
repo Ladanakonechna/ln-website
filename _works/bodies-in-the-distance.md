@@ -3,7 +3,7 @@ layout: page
 title: Bodies in the distance
 year: 2020
 thumb_url: /assets/images/bodies-in-a-distance/skala20206.jpg
-
+---
 
 4—26.12.2020 <br>
 Виставка/ Exhibition
