@@ -10,7 +10,7 @@ Galerie EIGEN + ART Berlin <br>
 January 9 – February 20, 2020
 <br>
 
-![](/assets/images/images-from-abroad/images from abroad_marking 2.jpg)
+![imagetest](/assets/images/images-from-abroad/images from abroad_marking 2.jpg)
 
 <br><br>
 January 2020
