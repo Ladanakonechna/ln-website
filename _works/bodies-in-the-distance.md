@@ -9,6 +9,7 @@ thumb_url: /assets/images/bodies-in-a-distance/skala20206.jpg
 Виставка/ Exhibition
 
 <br>
+
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg)
 
 <br><br>
