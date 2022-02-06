@@ -12,7 +12,8 @@ Exhibition <br>
 
 NAMU, Kyiv <br>
 
-![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/kholostenko_web.jpg)
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/kholostenko_web.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/kholostenko5_web.jpg#30)
 
 <br><br>
 In the exhibition Disciplined Vision I continue working with the visible as something full of hidden things: gazes, thrills, intentions, motivations, ideas, ideologies.
