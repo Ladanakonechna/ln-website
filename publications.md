@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+<div class="EN">
 #### Online articles
 **"Observing the Artist as Another Object".** 
 Mariana Matveichuk on the practice of Lada Nakonechna. [Read here](http://www.eigen-art.com/index.php?article_id=1274&clang=1)
@@ -34,7 +36,7 @@ Kunstmuseum Wolfsburg
 ISBN: 978-3-9804827-9-0
 pp. 70-71 (De)
 <br>
-**Festival International d`Art Toulouse, 2014**
+**Festival International d'Art Toulouse, 2014**
 ISBN: 978-2-35290-137-2
 p.118 (FR/ENG)
 <br>
@@ -48,6 +50,10 @@ Index– The Swedish Contemporary Art Foundation
 ISBN: 978-91-633-2928-9
 pp.138-143
 <br>
+
+</div>
+
+<div class="UKR">
 
 #### books/publications
 **The Global Art Compass. New Directions in 21st- century Art.** 
@@ -71,3 +77,5 @@ pp. 90-94
 Арт книга, Київ, 2018
 ISBN: 978-617-7242-51-1
 ст. 42-45 (UA)
+
+</div>

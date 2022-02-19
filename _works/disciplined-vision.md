@@ -5,7 +5,7 @@ year: 2021
 thumb_url: /assets/images/disciplinovane-bacenna-disciplined-vision/kholostenko_web.jpg
 ---
 
-
+<div class="EN">
 Exhibition <br>
 
 20.03.– 30.06.2021 <br>
@@ -42,3 +42,7 @@ Objects (Metall, graphite on paper, photo, ribbon)
 Created with support of CEC ArtsLink, Open Place.
 
 Technical support: Sergii Sabakar
+</div>
+
+<div class="UKR">
+</div>

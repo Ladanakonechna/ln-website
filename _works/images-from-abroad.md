@@ -5,6 +5,7 @@ year: 2020
 thumb_url: /assets/images/images-from-abroad/images from abroad_marking 2.jpg
 ---
 
+<div class="EN">
 Exhibition <br>
 Galerie EIGEN + ART Berlin <br>
 January 9 – February 20, 2020
@@ -44,3 +45,7 @@ of the exhibition, constantly changing perspectives on and narratives about thes
 <br><br>
 Bettina Klein<br>
 Translation by Mitch Cohen
+</div>
+
+<div class="UKR">
+</div>

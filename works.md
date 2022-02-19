@@ -3,7 +3,7 @@ layout: works
 title: Works
 permalink: /works/
 ---
-<br>
-#### Gallery view | [List view]({{site.baseurl}}{% link works-list.md %})
 
+#### Gallery view | [List view]({{site.baseurl}}{% link works-list.md %})
+<br>
 {% include works-gallery.html %}

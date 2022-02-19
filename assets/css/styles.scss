@@ -55,25 +55,25 @@ img[src*="#30"] {
     grid-column-gap: 30px;
 }
 
-@media screen and (min-width: 1260px) {
+@media screen and (max-width: 1260px) {
 .mt-4 {
     grid-template-columns: 1fr 1fr;
 }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1200px) {
 .mt-4 {
     grid-template-columns: 555px 555px;
 }
 }
 
-@media screen and (min-width: 992px) { 
+@media screen and (max-width: 992px) { 
 .mt-4 {
     grid-template-columns: 460px 460px;
 }
 }
 
-@media screen and (min-width: 768px) { 
+@media screen and (max-width: 768px) { 
 .mt-4 {
     display: block;
 }

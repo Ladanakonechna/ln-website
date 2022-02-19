@@ -5,6 +5,7 @@ year: 2020
 thumb_url: /assets/images/bodies-in-a-distance/skala20206.jpg
 ---
 
+<div class="EN">
 4—26.12.2020 <br>
 Виставка/ Exhibition
 
@@ -20,7 +21,7 @@ Opening: Friday, 4 December, g. 12pm
 Conversation between Marek Wasilewski Lada Nakonechna: Saturday, 5 December, g. 4 pm (live-stream)
 
 <br><br>
-*Exhibition is available to view through front windows and online.
+Exhibition is available to view through front windows and online.
 <br><br>
 Lada Nakonechna is the creator of drawings, photographs, installations, and performative actions. The artist’s work is deeply immersed in the politics of vision. Nakonechna is a careful observer of visual messages present in public space. Her works refer not only to current events in Ukraine, but also provide insightful analyses of the relations of power, violence, and alienation in contemporary European societies.
 <br><br>
@@ -33,3 +34,7 @@ The minimalist, conceptual form of these creations identifies precisely where th
 At the same time, the artist signals that she is aware of the aesthetic and cultural context that comprises the codes, with which she can communicate with her viewers. Her actions are aimed at retrieving social consciousness and creating alternative narrations, which will aid the process of political and cultural emancipation.
 <br><br>
 Marek Wasilewski
+</div>
+
+<div class="UKR">
+</div>
