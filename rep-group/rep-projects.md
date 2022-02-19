@@ -3,6 +3,7 @@ layout: page
 title: R.E.P. Projects
 ---
 
+<section markdown="1" class="EN">
 ---
 REVOLUTIONARY
 EXPERIMENTAL SPACE     *2004-2005,**Actions in public space, open studio and exhibition in Centre for contemporary art at NaUKMA, Kyiv, Ukraine*
@@ -85,4 +86,7 @@ VIENNA** *2016*
 ---
 
 **ON METHOD. A NON-HISTORY LESSON** *2016*
+</section>
 
+<section markdown="1" class="UKR">
+</section>

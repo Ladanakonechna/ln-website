@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div media:type="text/omd" class="EN">
+<section markdown="1" class="EN">
 Lada Nakonechna is author of drawings, public space actions, installations, videos and performances. She builds her multipartite installations and arranges her objects in a specific way so that they integrate the whole space, including the visitors in that space. The artist’s interest is in the structure of social relationships, the mutual dependence between acting and viewing and the perceptions and roles of art in them. She creates “spaces of the possible” in the territory of art, in which these relations can develop, reveal themselves, and clarify themselves. 
 
 Lada Nakonechna is an artist but also curator (member of curatorial and activist union Hudrada, from 2008) and educator (co-founder, together with Kateryna Badianova, of the Course of Art - an independent educational program in Kyiv, from 2012). She is co-founder of the Method Fund (2015) and editor of PROSTORY - the journal of art, literature and politics.
@@ -27,8 +27,8 @@ Works in public collections (selection): Philadelphia Museum of Art, Deutsche Ba
 Represented by Eigen+Art Gallery/Berlin.
 
 Lives in Kyiv, Ukraine.
-</div>
+</section>
 
-<div media:type="text/omd" class="UKR">
+<section markdown="1" class="UKR">
 
-</div>
+</section>

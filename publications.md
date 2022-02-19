@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<div media:type="text/omd" class="EN">
+<section markdown="1" class="EN">
 #### Online articles
 **"Observing the Artist as Another Object".** 
 Mariana Matveichuk on the practice of Lada Nakonechna. [Read here](http://www.eigen-art.com/index.php?article_id=1274&clang=1)
@@ -51,9 +51,9 @@ ISBN: 978-91-633-2928-9
 pp.138-143
 <br>
 
-</div>
+</section>
 
-<div media:type="text/omd" class="UKR">
+<section markdown="1" class="UKR">
 
 #### books/publications
 **The Global Art Compass. New Directions in 21st- century Art.** 
@@ -78,4 +78,4 @@ pp. 90-94
 ISBN: 978-617-7242-51-1
 ст. 42-45 (UA)
 
-</div>
+</section>

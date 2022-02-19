@@ -3,10 +3,10 @@ layout: page
 title: R.E.P. CV
 ---
 
-
+<section markdown="1" class="EN">
 **R.E.P.**
 (revolutionary experimental space) group was found in 2004. 
-Since 2006 members of R.E.P. group are Nikita Kadan, Zhanna Kadyrova, Lesia Khomenko,
+Since 2006 members of R.E.P. group are Nikita Kadan, Zhanna Kadyrova, Lesia Khomenko,
 Volodymyr Kuznetsov, Ksenia Hnylytska, Lada Nakonechna,
 all live and work in Kyiv, Ukraine
 
@@ -19,7 +19,7 @@ union based on interdisciplinary communication
 **Selected exhibitions**
 **2018**
 **The
-Opposing Shore**, Université de Bretagne
+Opposing Shore**, Université de Bretagne
 Occidentale, Brest, France
 
 **2017**
@@ -32,13 +32,13 @@ Galeria Labirynt, Lublin
 Rally,** Studio Gallery, Palace of Culture and Science, Warsaw
 **Universal hospitality**, Alte Post, Wien
 **Meanwhile, what
-about socialism?**, Gallery North, Northumbria University, Newcastle**Dependence degree**, BWA Wrocław - Gallery of
+about socialism?**, Gallery North, Northumbria University, Newcastle**Dependence degree**, BWA Wrocław - Gallery of
 Contemporary Art
 **2015****R.E.P. – On method, 10 years**, Contemporary Art Space, Batumi/ Georgian State Art Museum, Tbilisi
 **Limited liability pavilion**, apartment exhibition during56th International Art Exhibition – la Biennale di Venezia, Italy
 **Demonstrating Minds:
-Disagreements in Contemporary Art**, Museum of Contemporary Art KIASMA/
-The Finnish National Gallery, Helsinki, Finland**Art has no alternative** ***(An Archive of Artists in Action)***,tranzit.sk*,* Bratislava,
+Disagreements in Contemporary Art**, Museum of Contemporary Art KIASMA/
+The Finnish National Gallery, Helsinki, Finland**Art has no alternative** ***(An Archive of Artists in Action)***,tranzit.sk*,* Bratislava,
 Slovakia
 **2014****The Wall, Art Face to Face with Borders**, Careof
 DOCVA, Milan
@@ -50,8 +50,8 @@ Vienna, Ausria
 **Deprivation**, Arsenal gallery, Bialystok, Poland
 **The Ukrainians**, daadgalerie, Berlin, Germany
 **Imaginary archive**, Les Kurbas centre, Kyiv, Ukraine
-**Disobedience Archive (The park)**, SALT Beyoğlu, Istanbul, Turkey
-**Piazza dell`imaginario**, Prato, Italy
+**Disobedience Archive (The park)**, SALT Beyoğlu, Istanbul, Turkey
+**Piazza dell'imaginario**, Prato, Italy
 **The stairs**, project organized by Polish Institute on Ivana Franka st, Kyiv,
 Ukraine
 **2013** 
@@ -76,7 +76,6 @@ colours. What makes art**, MARTa Herford, DE
 **Sun of the
 Poor**, Ya Gallery Art Center,
 Dnipropetrovsk
- 
 **2012**
 **Cantastoria,** UMOCA (Utah Museum
 of Contemporary Art), Salt Lake City, USA
@@ -88,7 +87,7 @@ Art Museum in Crimea, Ukraine
 **"THE BEST OF TIMES, THE WORST OF TIMES – REBIRTH
 AND APOCALYPSE IN CONTEMPORARY ART"**, main project of First Kyiv biennale
 of contemporary art ARSENALE 2012, Museum Complex
-"Mystetskyi Arsenal", Kyiv, UA
+"Mystetskyi Arsenal", Kyiv, UA
 **“Myth
 "Ukrainian baroque”,** National Art Museum, Kyiv
 ***Who told you so?!
@@ -103,22 +102,22 @@ Center, Kyiv, Ukraine
 **Between
 Ideology and Identity**. Budapest Version, in Labor,
 Budapest, Hungary
-**Impossible community**, Moscow
-Museum of Modern Art, Russia  
-**LIFE IN THE FOREST**, Galeria
-Arsenal, Bialystok, Poland 
+**Impossible community**, Moscow
+Museum of Modern Art, Russia 
+**LIFE IN THE FOREST**, Galeria
+Arsenal, Bialystok, Poland 
 **ATLANTIS 11,****The alternative Bulgarian pavilion,**54th
 Venice Biennial, Italy
-**Independent,** Art Arsenal, Kyiv, Ukraine 
+**Independent,** Art Arsenal, Kyiv, Ukraine 
 **A
-complicated relation,** part 2, KALMAR KONSTMUSEUM, Kalmar, Sweden
+complicated relation,** part 2, KALMAR KONSTMUSEUM, Kalmar, Sweden
 **Making and art**,
 Stadtgalerie Schwaz, Austria
-**Public Folklore**, Grazer
-Kunstverein, Graz, Austria 
+**Public Folklore**, Grazer
+Kunstverein, Graz, Austria 
 **2010**
 **PROTESTS, SUBVERSIONS, COMMUNITIES,
-MARKETS: PUBLIC SPACE IN CONTEMPORARY UKRAINIAN ART**,
+MARKETS: PUBLIC SPACE IN CONTEMPORARY UKRAINIAN ART**,
 public screening, FLAT
 SPACE, Chisinau 
 **Art-Kyiv Contemporary,** parallel
@@ -133,7 +132,7 @@ Estonia
 Biennial in Israel,** CCA, Tel Aviv, Israel
 **Minimal Differences****,** White
 Box, New York, USA
-**ЯКЩО****/** **ЕСЛИ****/ IF. Ukrainian Art in Transition,** PERMM museum, Perm, Russia
+**ЯКЩО****/** **ЕСЛИ****/ IF. Ukrainian Art in Transition,** PERMM museum, Perm, Russia
 **When One Has to Say “We”: Art as the Practice of
 Solidarity**, Saint Petersburg, Russia 
 **Over the
@@ -147,17 +146,16 @@ Ukraine
 **SUPERMARKET** - the
 artist-run art fair, Stockholm, Sweden
 **Let’s talk about nationalism! Between ideology and identity,** Kumu Art
-Museum, Tallinn, Estonia 
- 
+Museum, Tallinn, Estonia
 **2009**
 **Revolutionary moments**, Center
-for Contemporary Art at National University Kiev Mohyla Academy,  Kyiv, Ukraine;
+for Contemporary Art at National University Kiev Mohyla Academy,  Kyiv, Ukraine;
 **Communism Never Happened**,
 Feinkost gallery, Berlin, Germany;
 **FUTURE WAS YESTERDAY. Self organized artistic
 practices from Ukraine,** Gallery SC + Gallery PM/HDLU,
-Zagreb, Croatia;
-**Old Cold War. Pols Socialist Countries Experience,** 3rd
+Zagreb, Croatia;
+**Old Cold War. Pols Socialist Countries Experience,** 3rd
 Moscow Biennale, Moscow, Russia;
 **Views,** Center for
 Contemporary Art at National University Kiev Mohyla Academy, Kyiv, Ukraine;
@@ -170,8 +168,7 @@ Poland;
 **No More Reality. Crowd and performance,** Depo,
 Istanbul, Turkey;
 **Land of Human Rights: Being Responsible for
-Resources**, < rotor > - art association in Graz, Austria 
- 
+Resources**, < rotor > - art association in Graz, Austria
 **2008**
 **Art as a present,** Pinchuk Art
 Center, Kyiv, Ukraine;
@@ -197,10 +194,9 @@ of R.E.P. group, “Karas gallery”, Kyiv,
 Ukraine;
 **Checkpoint,** F.A.I.T.
 gallery, Krakow, Poland;
-**Satellite Tunes,**  National University of Fine Arts, Budapest,
+**Satellite Tunes,** National University of Fine Arts, Budapest,
 Hungary;
 **Shengen**, Feinkost gallery, Berlin, Germany
- 
 **2007**
 **Consequences and Proposals,** Biennale
 of young artists,Tallinn, Estonia;
@@ -232,7 +228,6 @@ Kyiv Mohyla Academy, Kyiv, Ukraine;
 **Petroliana. Oil patriotism**,
 Second Moscow Biennale of Contemporary Art, Moscow Museum for Contemporary Art,
 Moscow, Russia;
- 
 **2006** 
 **Testing station**, “Skulpturens
 Hus”, Stockholm, Sweden;
@@ -267,41 +262,22 @@ Contemporary Art at National University Kiev Mohyla Academy, Kyiv, Ukraine;
 Ukrainian Institute of Modern Art, Chicago, U.S.A;
 **Intervention**, Center for
 Contemporary Art at National University Kyiv Mohyla Academy, Kyiv, Ukraine;
- 
 **2004** 
 **Revolutionary Experimental Space**,
 Center for Contemporary Art at National University Kyiv Mohyla Academy, Kyiv,
 Ukraine.
- 
 **Residencies**
 **2005** – Year
 residence of R.E.P. group in Centre for Contemporary Art at Kyiv-Mohyla Academy
 **2008** – Residence
 in LIA – Leipzig International Art Program, Leipzig, Germany
- 
 **Collections**
 Museo d’árte
 contemporanea Luigi Pecci, Prato, Italy
 Arsenal gallery, Bialystok, PolandLabirynt gallery, Lublin, Poland
 FRAC Bretagne, France
+</section>
 
 
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
- 
-
-
+<section markdown="1" class="UKR>">
+</section>
