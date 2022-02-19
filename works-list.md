@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: works
 title: Works
 permalink: /works-list
 ---
-
+<br>
+<div>
 #### [Gallery view]({{site.baseurl}}{% link works.md %}) | List view
 
 {% assign works = site.works | sort: "year" | reverse %}
@@ -17,3 +18,4 @@ permalink: /works-list
   {% endif %}
 ##### {{work.title}}[ >>]({{site.baseurl}}{{work.url}})
 {% endfor %}
+<div>

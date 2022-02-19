@@ -54,3 +54,27 @@ img[src*="#30"] {
     grid-template-columns: 1fr 1fr;
     grid-column-gap: 30px;
 }
+
+@media screen and (min-width: 1260px) {
+.mt-4 {
+    grid-template-columns: 1fr 1fr;
+}
+}
+
+@media screen and (min-width: 1200px) {
+.mt-4 {
+    grid-template-columns: 555px 555px;
+}
+}
+
+@media screen and (min-width: 992px) { 
+.mt-4 {
+    grid-template-columns: 460px 460px;
+}
+}
+
+@media screen and (min-width: 768px) { 
+.mt-4 {
+    display: block;
+}
+}
