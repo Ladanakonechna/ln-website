@@ -5,6 +5,9 @@
 @import "syntax-highlighting";
 @import "main";
 
+
+/* Setting up the image gallery */
+
 .image-gallery {
 width: 100%;
 display: grid;
@@ -31,6 +34,9 @@ transform: scale(1.05);
 }
 }
 
+
+/* Setting up different image sizes for work pages */
+
 img[src*="#50"] {
    width:50%;
    padding-right: 1em;
@@ -39,4 +45,12 @@ img[src*="#50"] {
 img[src*="#30"] {
    width:30%;
    padding-right: 1em;
+}
+
+/* Setting up a grid for en / ukr text */
+
+.mt-4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
 }
