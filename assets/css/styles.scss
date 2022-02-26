@@ -55,8 +55,71 @@ img[src*="#30"] {
     grid-column-gap: 30px;
 }
 
-@media screen and (max-width: 768px) { 
+@media screen and (max-width: 768px) {
 .mt-4 {
     display: block;
 }
+
+}
+
+/*FR code*/
+
+/*colour changes*/
+
+a:link {
+    color: #909BAD;
+}
+
+a:hover {
+  color:white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #909BAD;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+}
+
+.navbar {
+  border-bottom: 0.125rem solid #909BAD;
+}
+
+/*font definition*/
+
+body {
+  font-family: "Arial", var(--bs-font-sans-serif);
+}
+
+/*navigation bar alignments*/
+
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0.5rem;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0;
+  padding-left: 1rem;
+}
+
+.nav-link {
+  padding-bottom:0.3rem;
+}
+
+/*hamburger icon tweaks – next steps, in progress*/
+
+.navbar-light {
+  color: #909BAD;
+}
+
+
+.navbar-toggler{
+  border: none;
 }
