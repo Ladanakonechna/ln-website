@@ -66,24 +66,42 @@ img[src*="#30"] {
 
 /*colour changes*/
 
+@media (prefers-color-scheme: dark) {
+  :root {
+  --color-main: #9FBCDB;
+  --color-hover: #ffffff;
+}
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+  --color-main: #0051A8;
+  --color-hover: #000000;
+}
+}
+
 a:link {
-    color: #909BAD;
+    color: var(--color-main);
 }
 
 a:hover {
-  color:white;
+  color: var(--color-hover);
+}
+
+.navbar-toggler-icon {
+    color: var(--color-main);
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #909BAD;
+    color: var(--color-main);
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: white;
+    color: var(--color-hover);
 }
 
 .navbar {
-  border-bottom: 0.125rem solid #909BAD;
+  border-bottom: 0.125rem solid var(--color-main);
 }
 
 /*font definition*/
@@ -115,11 +133,9 @@ body {
 
 /*hamburger icon tweaks – next steps, in progress*/
 
-.navbar-light {
-  color: #909BAD;
-}
 
 
 .navbar-toggler{
   border: none;
+  color: var(--color-main);
 }
