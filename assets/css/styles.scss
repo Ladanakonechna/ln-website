@@ -35,6 +35,7 @@ transform: scale(1.05);
 }
 
 
+
 /* Setting up different image sizes for work pages */
 
 img[src*="#50"] {
@@ -47,24 +48,7 @@ img[src*="#30"] {
    padding-right: 1em;
 }
 
-/* Setting up a grid for en / ukr text */
-
-.mt-4 {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-column-gap: 30px;
-}
-
-@media screen and (max-width: 768px) {
-.mt-4 {
-    display: block;
-}
-
-}
-
-/*FR code*/
-
-/*colour changes*/
+/*colour vars*/
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -79,6 +63,48 @@ img[src*="#30"] {
   --color-hover: #000000;
 }
 }
+
+/* Setting up a grid for en / ukr text */
+
+.mt-4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+}
+
+/*all mobile layout settings here*/
+
+@media screen and (max-width: 768px) {
+.mt-4 {
+    display: block;
+}
+
+.UKR {
+    border-top: 1px solid #cccccc;
+    margin-top: 50px;
+    padding-top: 30px;
+  }
+
+
+  img[src*="#50"] {
+    flex-basis: 25%;
+    align-self: center;
+     width:70%;
+     padding-right: 1em;
+  }
+
+  img[src*="#30"] {
+    flex-basis: 25%;
+    align-self: center;
+     width:50%;
+     padding-right: 1em;
+  }
+
+}
+
+/*FR code*/
+
+/*colour changes*/
 
 a:link {
     color: var(--color-main);
@@ -132,8 +158,6 @@ body {
 }
 
 /*hamburger icon tweaks – next steps, in progress*/
-
-
 
 .navbar-toggler{
   border: none;
