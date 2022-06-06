@@ -4,8 +4,10 @@
   link: /about/
 - name: Works
   link: /works/
-- name: Publications
-  link: /publications/
+- name: Exhibitions
+  link: /exhibitions/
+- name: Writing
+  link: /writing/
 - name: R.E.P. group
   link: /rep-group/
 
