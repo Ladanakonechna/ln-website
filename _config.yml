@@ -38,3 +38,9 @@ collections:
   works:
     output: true
     permalink: /works/:name
+  exhibitions:
+    output: true
+    permalink: /exhibitions/:name
+  writing:
+    output: true
+    permalink: /writing/:name
