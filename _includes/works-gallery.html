@@ -6,3 +6,49 @@
     </a></div>
 {% endfor %}
 </div>
+
+<script type="text/javascript">
+    function boxes_overlap_push_down(existing_pos,t,l,h,w) {
+        b = t+h;
+        r = l+w;
+        for(var i=0; i<existing_pos.length; i++) {
+            el = existing_pos[i];
+            console.log("comparing: t:" + t + ",b:" + b + ",l:" + l + ",r:" + r + " to: t:" + el.t + ",b:" + el.b + ",l:" + el.l + ",r:" + el.r)
+            if ( (((t>=el.t && t<=el.b) || (b>=el.t && b<=el.b)) &&
+                ((l>=el.l && l<=el.r) || (r>=el.l && r<=el.r))) ||
+                (((el.t>=t && el.t<=b) || (el.b>=t && el.b<=b)) &&
+                ((el.l>=l && el.l<=r) || (el.r>=l && el.r<=r))) ) {
+                console.log("yes")
+                t = el.b + 10;
+                b = t + h;
+            }
+        }
+        return t;
+    };
+    function boxes_randomize() {
+        var boxes = document.getElementsByClassName("box");
+        var existing_pos = [];
+        baseWidth = boxes[0].parentElement.clientWidth;
+        baseLeft = boxes[0].parentElement.offsetLeft;
+        baseHeight = boxes[0].parentElement.clientHeight;
+        baseTop = boxes[0].parentElement.offsetTop;
+        if (baseWidth <= 512) return;
+        for(var i=0; i<boxes.length; i++) {
+            var box = boxes.item(i);
+
+            t = (Math.floor(Math.random() * (baseHeight)));
+            l = (Math.floor(Math.random() * (baseWidth)));
+            h = box.offsetHeight;
+            w = box.offsetWidth;
+
+            t = boxes_overlap_push_down(existing_pos,t,l,h,w);
+            existing_pos.push({t:t, l:l, b:(t+h), r:(l+w)});
+            existing_pos.sort(function(x,y) { return x.t < y.t ? -1 : 1; })
+
+            box.style.position = 'relative';
+            box.style.top = (baseTop-box.offsetTop + t) + 'px';
+            box.style.left = (baseLeft-box.offsetLeft + l) + 'px';
+        }
+    };
+    window.onload = boxes_randomize;
+</script>
