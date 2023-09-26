@@ -53,19 +53,19 @@ img[src*="#30"] {
 
 @media (prefers-color-scheme: dark) {
   :root {
-  --color-main: #dee2e6;
-  --color-hover: #ffffff;
-  --color-body: #abb2bf;
+
+  --color-body: #ffffff;
   --color-back:#282c34;
+  --color-dates:#949494;
 }
 }
 
 @media (prefers-color-scheme: light) {
   :root {
-  --color-main: #444444;
-  --color-hover: #000000;
-  --color-body: #737373;
+
+  --color-body: #000000;
   --color-back:#fafafa;
+  --color-dates:#6E6E6E;
 }
 }
 
@@ -74,7 +74,7 @@ img[src*="#30"] {
 .mt-4 {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-column-gap: 30px;
+    grid-column-gap: 80px;
 }
 
 
@@ -83,28 +83,43 @@ img[src*="#30"] {
 /*colour changes*/
 
 a:link {
-    color: var(--color-main);
+    color: var(--color-body);
+    font-weight: 700;
+    text-decoration-color:var(--color-dates);
 }
 
 a:hover {
-  color: var(--color-hover);
+  text-decoration-color:var(--color-body);
+}
+
+a:visited {
+  color: var(--color-body);
+  text-decoration-color:var(--color-dates);
+}
+
+h4 a:hover {
+  text-decoration-color:var(--color-body);
+}
+
+.post-date, .archive-date, .fs-4 {
+  color: var(--color-dates);
 }
 
 .navbar-toggler-icon {
-    color: var(--color-main);
+    color: var(--color-body);
 }
 
-.navbar-light .navbar-nav .nav-link {
-    color: var(--color-main);
+.navbar-light, .navbar-nav {
+    color: var(--color-body);
+    font-weight: 300;
 }
 
-.navbar-light .navbar-nav .nav-link:hover {
-    color: var(--color-hover);
-}
 
 .navbar {
-  border-bottom: 0.125rem solid var(--color-main);
+  border-bottom: 2px solid var(--color-body);
 }
+
+
 
 /*font definition*/
 
@@ -133,28 +148,35 @@ body {
 
 .nav-link {
   padding-bottom:0.3rem;
+  font-weight: 300 !important;
+  color: var(--color-body) !important;
+}
+
+.active {
+  font-weight: 700 !important;
+  color: var(--color-body) !important;
 }
 
 /*hamburger icon tweaks – next steps, in progress*/
 
 .navbar-toggler{
   border: none;
-  color: var(--color-main);
+  color: var(--color-body);
 }
 
-
-h4 a {
-  color: var(--color-main) !important;
-}
 
 /*home*/
+
+.home-container{
+  text-align: center;
+}
 
 .home-text {
   font-size: 20px;
 }
 
 .home-img {
-  width:100%;
+  max-height: 90vh;
 }
 
 /*all mobile layout settings here*/
@@ -165,7 +187,7 @@ h4 a {
 }
 
 .UKR {
-    border-top: 1px solid var(--color-main);
+    border-top: 1px solid var(--color-body);
     margin-top: 50px;
     padding-top: 30px;
   }
