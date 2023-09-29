@@ -15,5 +15,5 @@ permalink: /writing/
 <br>
 ## {{cur_year}}
   {% endif %}
-##### {{text.title}}[ >>]({{site.baseurl}}{{text.url}})
+##### [{{text.title}}]({{site.baseurl}}{{text.url}})
 {% endfor %}
