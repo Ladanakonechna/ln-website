@@ -15,5 +15,5 @@ permalink: /exhibitions-list
 <br>
 ## {{cur_year}}
   {% endif %}
-##### {{exhibition.title}}[ >>]({{site.baseurl}}{{exhibition.url}})
+##### [{{exhibition.title}}]({{site.baseurl}}{{exhibition.url}})
 {% endfor %}

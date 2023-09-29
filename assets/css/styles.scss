@@ -119,7 +119,17 @@ h4 a:hover {
   border-bottom: 2px solid var(--color-body);
 }
 
+h4 a {
+  color: var(--color-dates) !important;
+}
 
+h4 {
+  font-weight: 700;
+}
+
+h5 a {
+  font-weight: 300 !important;
+}
 
 /*font definition*/
 
@@ -171,12 +181,14 @@ body {
   text-align: center;
 }
 
-.home-text {
-  font-size: 20px;
-}
-
-.home-img {
-  max-height: 90vh;
+.img-box {
+  height: 75vh;
+  width: 100%;
+  overflow: hidden;
+  background-image: url('../images/While-I-can-see.jpeg');
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 30px;
 }
 
 /*all mobile layout settings here*/
@@ -209,6 +221,10 @@ body {
 
   .home-text {
     font-size: 15px;
+  }
+
+  .img-box {
+    height: 50vh;
   }
 
 }
