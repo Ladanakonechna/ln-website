@@ -15,5 +15,5 @@ permalink: /works-list
 <br>
 ## {{cur_year}}
   {% endif %}
-##### {{work.title}}[ >>]({{site.baseurl}}{{work.url}})
+##### [{{work.title}}]({{site.baseurl}}{{work.url}})
 {% endfor %}
