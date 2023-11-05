@@ -32,7 +32,6 @@ plugins:
 
 exclude:
   - /third-party
-  - /imported
 
 collections:
   works:
