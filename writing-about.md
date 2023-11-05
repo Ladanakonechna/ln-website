@@ -6,6 +6,8 @@ permalink: /writing-about/
 
 #### [Writing by the artist]({{site.baseurl}}{% link writing.md %})  | Writing about the artist 
 <br>
+## 2023
+<a href="https://sites.google.com/site/methodfund/news">Example PDF link</a>
 ## 2022
 <a href="https://sites.google.com/site/methodfund/news">Example writing title with a link</a>
 <br>
