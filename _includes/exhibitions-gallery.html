@@ -6,3 +6,89 @@
     </a></div>
 {% endfor %}
 </div>
+
+<script type="text/javascript">
+    function shuffle(array) {
+        let currentIndex = array.length,  randomIndex;
+
+        // While there remain elements to shuffle.
+        while (currentIndex != 0) {
+
+            // Pick a remaining element.
+            randomIndex = Math.floor(Math.random() * currentIndex);
+            currentIndex--;
+
+            // And swap it with the current element.
+            [array[currentIndex], array[randomIndex]] = [
+            array[randomIndex], array[currentIndex]];
+        }
+
+        return array;
+    }
+    function boxes_randomize() {
+        var boxes = document.getElementsByClassName("box");
+        var existing_pos = [];
+        var baseWidth = boxes[0].parentElement.clientWidth;
+        var baseLeft = boxes[0].parentElement.offsetLeft;
+        var baseHeight = boxes[0].parentElement.clientHeight;
+        var baseTop = boxes[0].parentElement.offsetTop;
+        console.log(baseWidth, baseLeft, baseHeight, baseTop);
+        if (baseWidth <= 512) return;
+        boxes = Array.prototype.slice.call(boxes);
+        boxes = shuffle(boxes);
+        var currentTop = baseTop;
+        var currentHeight = 0;
+        var currentLeft = baseLeft;
+        var inserted = [];
+        var discreteH = [baseTop];
+        var discreteW = [baseLeft];
+        for(var i=0; i<boxes.length; i++) {
+            var box = boxes[i];
+
+            var sizeFactor = Math.random() * 0.5 + 0.75;
+            var boxHeight = Math.round(sizeFactor * box.offsetHeight);
+            var boxWidth = Math.round(sizeFactor * box.offsetWidth);
+            var verticalFactor = Math.random() * 0.25;
+            var verticalWhitespace = Math.round(verticalFactor * boxHeight);
+            var horizontalFactor = Math.random() * 0.25;
+            var horizontalWhitespace = Math.round(horizontalFactor * boxWidth);
+
+            var overlap = true;
+            var currentTop = discreteH[0];
+            var currentLeft = discreteW[0];
+            for(var x=0; overlap && x<discreteH.length; x++) {
+                currentTop = discreteH[x];
+                for(var y=0; overlap && y<discreteW.length; y++) {
+                    currentLeft = discreteW[y];
+                    if(currentLeft+boxWidth+horizontalWhitespace>baseLeft+baseWidth) {
+                        continue;
+                    }
+                    overlap = false;
+                    for(var j=0; !overlap && j<inserted.length; j++) {
+                        if((currentTop>=inserted[j][1] || inserted[j][0]>=currentTop+boxHeight+verticalWhitespace)) {
+                            overlap = false;
+                        }
+                        else if (currentLeft>=inserted[j][3] || inserted[j][2]>=currentLeft+boxWidth+horizontalWhitespace) {
+                            overlap = false;
+                        }
+                        else {
+                            overlap = true;
+                        }
+                    }
+                }
+            }
+            inserted.push([currentTop,currentTop+boxHeight+verticalWhitespace,currentLeft,currentLeft+boxWidth+horizontalWhitespace]);
+            discreteH.push(currentTop+boxHeight+verticalWhitespace);
+            discreteH.sort(function(a, b) {return a - b;});
+            discreteW.push(currentLeft+boxWidth+horizontalWhitespace);
+            discreteW.sort(function(a, b) {return a - b;});
+            box.style.top = (currentTop+verticalWhitespace) + 'px';
+            box.style.left = (currentLeft+horizontalWhitespace) + 'px';
+            box.style.height = boxHeight + 'px';
+            box.style.width = boxWidth + 'px';
+    
+                box.style.position = 'absolute';
+            }
+        };
+        window.onload = boxes_randomize;
+    </script>
