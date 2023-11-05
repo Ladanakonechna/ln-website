@@ -1,5 +1,5 @@
 ---
-layout: works
+layout: exhibitions
 title: Exhibitions
 permalink: /exhibitions/
 ---
