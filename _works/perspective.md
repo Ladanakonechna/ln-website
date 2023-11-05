@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Bodies in the distance
+title: Perspective
 year: 2020
-thumb_url: /assets/images/bodies-in-a-distance/skala20206.jpg
+thumb_url: /assets/images/perspektiva-perspective/library2.jpg
 ---
 
 <section markdown="1" class="EN">
@@ -12,7 +12,7 @@ thumb_url: /assets/images/bodies-in-a-distance/skala20206.jpg
 <br>
 <br>
 
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg)
+![imagetest]({{site.baseurl}}/assets/images/perspektiva-perspective/library2.jpg)
 
 <br><br>
 Opening: Friday, 4 December, g. 12pm 
