@@ -9,11 +9,11 @@ permalink: /writing/
 {% assign writing = site.writing | sort: "year" | reverse %}
 {% assign cur_year = writing[0].year %}
 ## {{cur_year}}
-{% for writing in writing %}
-  {% if cur_year != writing.year %}
-    {% assign cur_year = writing.year %}
+{% for text in writing %}
+  {% if cur_year != text.year %}
+    {% assign cur_year = text.year %}
 <br>
 ## {{cur_year}}
   {% endif %}
-##### [{{writing.title}}]({{site.baseurl}}{{writing.url}})
+##### [{{text.title}}]({{site.baseurl}}{{text.url}})
 {% endfor %}
