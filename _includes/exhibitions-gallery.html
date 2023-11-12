@@ -1,5 +1,5 @@
 <div class ="image-gallery">
-{% assign works = site.exhibitions | sort: 'year' | reverse %}
+{% assign exhibitions = site.exhibitions | sort: 'year' | reverse %}
 {% for exhibition in exhibitions %}
     <div class="box"><a href="{{site.baseurl}}{{exhibition.url}}" title="{{exhibition.title}}">
     <img src="{{site.baseurl}}{{exhibition.thumb_url}}" alt="{{exhibition.title}}"  class="img-gallery" />
