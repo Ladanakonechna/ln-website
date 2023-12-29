@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Kaleidoscope of (Hi)stories. Ukrainian Art 1912–2023
-date:   2023-14-10
+date:   2023-10-14
 categories: news
 ---
 
