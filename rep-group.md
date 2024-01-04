@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R.E.P. group
+title: Collaborations
 permalink: /rep-group/
 ---
 
