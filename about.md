@@ -11,10 +11,9 @@ As a leader of a Kyiv independent educational program Course of Art, which inves
 
 In her artistic practice, Nakonechna consistently analyzes her position as an artist and researcher. The aim of this problematization is the recognition of perspectives that are established through artistic methods and reproduced by the art education system. Through institutional critique approaches she investigates the connection of art with the practices of power production. 
 
-Lada Nakonechna presented her work at numerous exhibitions including solo at the National Art Museum of Ukraine, and group at Albertinum—Staatlichen Kunstsammlungen Dresden, GfZK Leipzig, Museum of Modern Art in Warsaw, Malmö Kunstmuseum, Sevastopol Art Museum, Haus der Kunst München, Kunsthalltrondheim and other. As part of the R.E.P. group including exhibitions at Zacheta Gallery in Warsaw, Kumu Art Museum in Tallinn, Kunsthalle Vienna, Grazer Kunstverein, Museum of Contemporary Art KIASMA/The Finnish National Gallery, ZKM— Museum of Contemporary Art in Karlsruhe.
+Lada Nakonechna presented her work at numerous exhibitions including solo at the National Art Museum of Ukraine, and group at Albertinum—Staatlichen Kunstsammlungen Dresden, GfZK Leipzig, Haus der Kunst München in Germany, Museum of Modern Art in Warsaw, Sevastopol Art Museum in Ukraine, Malmö Kunstmuseum in Sweden, Kunsthalltrondheim in Norway and other. As part of the R.E.P. group including exhibitions at Zacheta Gallery in Warsaw, Kumu Art Museum in Tallinn, Kunsthalle Vienna, Grazer Kunstverein, Museum of Contemporary Art KIASMA/The Finnish National Gallery, ZKM— Museum of Contemporary Art in Karlsruhe.
 
 She is laureate of Malevich Award-2014 in Kyiv and PinchukArtCentre Special Prize, 2013.
-
 In 2011 in Leipzig she realized project in public space - the wall drawing in the University Library "Albertina".
 
 Works in public collections: solo at Muzeum Sztuki w Łodzi, Philadelphia Museum of Art, Deutsche Bank Collection, Art Collection Telekom, Arsenal Gallery in Białystok, Malmö Kunstmuseum, National Art Museum of Ukraine and of the R.E.P. group at Le Centre Pompidou, Kontact Collection in Vienna, Arsenal Gallery in Lublin among others.
