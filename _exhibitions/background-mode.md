@@ -47,6 +47,11 @@ In the exhibition space, the protagonist is the motif of the traditional picture
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/background-mode/perspective_reduction2.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/background-mode/perspective_reduction1.jpg)
 
