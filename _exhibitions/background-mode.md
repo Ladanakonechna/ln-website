@@ -34,7 +34,7 @@ In the exhibition space, the protagonist is the motif of the traditional picture
 </section>
 
 <section markdown="1" class="UKR">
-#### Фоновий режим
+###### Фоновий режим
 <br>
 <br>
 <br>
@@ -44,11 +44,10 @@ In the exhibition space, the protagonist is the motif of the traditional picture
 
 [>Стаття "Деталізувати темряву", Керолін Крал, Prostory.net.ua, 2018](hhttps://prostory.net.ua/en/9-publikatsii/krytyka/335-to-detail-darkness) 
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/background-mode/perspective_reduction2.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/background-mode/perspective_reduction1.jpg)
 
