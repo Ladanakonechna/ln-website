@@ -2,7 +2,7 @@
 layout: page
 title: Travelling head 
 year: 2023
-thumb_url: /assets/images/travelling-head/travelling-head3.jpeg
+thumb_url: /assets/images/travelling-head/travelling-head3a.jpeg
 ---
 
 <section markdown="1" class="EN">
