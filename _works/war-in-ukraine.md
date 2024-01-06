@@ -2,21 +2,19 @@
 layout: page
 title: War in Ukraine
 year: 2015
-thumb_url: /assets/images/disciplinovane-bacenna-disciplined-vision/kholostenko_web.jpg
+thumb_url: /assets/images/war-in-ukraine/war-in-ukr1-min.jpg
 ---
 
 <section markdown="1" class="EN">
-War in Ukraine
-<br>
 Pencil on paper, print on cardboard, showcase, 2015
 <br><br>
 
 
-![imagetest]({{site.baseurl}}/assets/images/war-in-ukraine/war-in-ukr1-min.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/war-in-ukraine/war-in-ukr1-min.jpg)
 *Hybrid War* *Гібридна війна*
-![imagetest]({{site.baseurl}}/assets/images/war-in-ukraine/war-in-ukr2-min.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/war-in-ukraine/war-in-ukr2-min.jpg)
 *War in Ukraine* *Війна в Україні*
-![imagetest]({{site.baseurl}}/assets/images/war-in-ukraine/war-in-ukr3-min.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/war-in-ukraine/war-in-ukr3-min.jpg)
 *Russian-Ukrainian War* *Російсько-українська війна*
 <br><br>
 <br><br>
