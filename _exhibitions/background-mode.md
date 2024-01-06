@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Background Mode     Фоновий режим
+title: Background Mode
 year: 2018
 thumb_url: /assets/images/background-mode/following3.jpg
 ---
@@ -37,8 +37,8 @@ The landscape from Ukrainian soviet artist Mykola Burachek’s “Road to a Coll
 <br>
 <br>
 <br>
-	![imagetest]({{site.baseurl}}/assets/images/background-mode/BackgrM_exp_5.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/background-mode/BackgrM_exp_5.jpg#30)
 
-	[>>Стаття "Деталізувати темряву", Керолін Крал, Prostory.net.ua, 2018](hhttps://prostory.net.ua/en/9-publikatsii/krytyka/335-to-detail-darkness) 
+[>>Стаття "Деталізувати темряву", Керолін Крал, Prostory.net.ua, 2018](hhttps://prostory.net.ua/en/9-publikatsii/krytyka/335-to-detail-darkness) 
 
 </section>
