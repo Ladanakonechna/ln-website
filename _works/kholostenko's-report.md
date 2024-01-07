@@ -12,12 +12,11 @@ Objects (Metall, graphite on paper, photo, ribbon), 2021 <br>
 Exhibition view: NAMU, Kyiv <br>
 
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko34-min.png)
-
-<br><br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko54-min.png)
 
-<br><br>
-<br><br>
+<br>
+<br>
 
 Created with support of CEC ArtsLink, Open Place.
 Technical support: Sergii Sabakar/Сергій Сабакар
@@ -32,7 +31,8 @@ Technical support: Sergii Sabakar/Сергій Сабакар
 <br><br>
 
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko18-min.png)
-*Catalogue of Ye. Kholostenko's solo exhibition* *Каталог звітної виставки робіт Є. В. Холостенка*
+*Catalogue of Ye. Kholostenko's solo exhibition*  
+*Каталог звітної виставки робіт Є. В. Холостенка*
 
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko44-min.png#50)
 
