@@ -13,15 +13,13 @@ Exhibition view, NAMU, Kyiv <br>
 
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko34-min.png)
 <br><br>
-
-
 <br><br>
 Created with support of CEC ArtsLink, Open Place.
 Technical support: Sergii Sabakar/Сергій Сабакар
 </section>
 
 <section markdown="1" class="UKR">
-####Звіт Є. Холостенка, 2021
+#### Звіт Є. Холостенка, 2021
 
 Об’єкти (метал, графіт на папері, фотографія, атласна стрічка) 
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko09-min.png)
