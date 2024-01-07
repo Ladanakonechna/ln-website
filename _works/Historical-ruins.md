@@ -6,7 +6,8 @@ thumb_url: /assets/images/historical-pictures-of-the-contemporary-ruins/ruins3.j
 ---
 
 <section markdown="1" class="EN">
-transfer print, graphite on the paper, 2019
+Drawings (transfer print, graphite on paper), 2019
+<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/ruins1.jpg#50)
 <br>
@@ -28,8 +29,12 @@ history of Ukraine.
 
 <section markdown="1" class="UKR">
 #### Історичні картини сучасних руїн
-<br><br>
-<br><br>
+<br>
+Рисунки (переносний друк, графіт на папері), 2019
+<br>
+<br>
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/ruins3.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/ruins2.jpg)
 </section>
