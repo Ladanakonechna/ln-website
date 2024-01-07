@@ -10,6 +10,7 @@ Pencil on paper, print on cardboard, showcase, 2015
 <br><br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/war-in-ukraine/warinukraine1.jpg#50)
+<br>
 Lada Nakonechna fixes frequently used phrases for description of a current political situation in Ukraine showing how the language structures reflect the political position of those who speak and reveal their mode of thinking. A change of preposition sometimes changes the whole sense of a phrase. Each picture seems to propose a triple translation of the same expression, but with every new switch the meaning profoundly alters.
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/war-in-ukraine/war-in-ukr1-min.jpg)
