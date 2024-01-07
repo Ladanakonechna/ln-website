@@ -12,7 +12,7 @@ Objects (Metall, graphite on paper, photo, ribbon), 2021 <br>
 Exhibition view: NAMU, Kyiv <br>
 
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko34-min.png)
-<br><br>
+
 <br><br>
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko54-min.png)
 
