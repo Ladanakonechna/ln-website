@@ -6,7 +6,9 @@ thumb_url: /assets/images/constructing-landscape/Constructing-landscape4.jpg
 ---
 
 <section markdown="1" class="EN">
+<br>
 Series of the drawings (graphite on paper, inkjet print), 2012
+<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/
 State-of-things-©Ines-Morin-Elias.jpg#50)
