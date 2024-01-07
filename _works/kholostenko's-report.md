@@ -9,6 +9,11 @@ thumb_url: /assets/images/disciplinovane-bacenna-disciplined-vision/kholostenko_
 Objects (Metall, graphite on paper, photo, ribbon), 2021 <br>
 Exhibition view: NAMU, Kyiv <br>
 <br>
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/kholostenko_web.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/kholostenko5_web.jpg#30)
+<br>
+<br>
+<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko34-min.png)
 <br>
@@ -28,6 +33,9 @@ Technical support: Sergii Sabakar/Сергій Сабакар
 Вигляд експозиції: НАМУ, Київ
 <br>
 <br>
+<br>
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko09-min.png)
 <br><br>
 
@@ -36,7 +44,7 @@ Technical support: Sergii Sabakar/Сергій Сабакар
 *Catalogue of Ye. Kholostenko's solo exhibition*  
 *Каталог звітної виставки робіт Є. В. Холостенка*
 
-![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko44-min.png#50)
-![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko-catalog.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko44-min.png#30)
+![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko-catalog.jpg#30)
 
 </section>
