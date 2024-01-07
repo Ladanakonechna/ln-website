@@ -26,6 +26,9 @@ State-of-things-©Ines-Morin-Elias.jpg#50)
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing-landscape1.jpeg)
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing-landscape2.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing-landscape3.jpg)
