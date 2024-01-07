@@ -36,6 +36,12 @@ Technical support: Sergii Sabakar/Сергій Сабакар
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko09-min.png)
 <br><br>
 
