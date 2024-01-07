@@ -10,7 +10,8 @@ Objects (Metall, graphite on paper, photo, ribbon), 2021 <br>
 
 
 Exhibition view: NAMU, Kyiv <br>
-
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko34-min.png)
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko54-min.png)
@@ -25,8 +26,9 @@ Technical support: Sergii Sabakar/Сергій Сабакар
 <section markdown="1" class="UKR">
 #### Звіт Є. Холостенка, 2021
 
-Об’єкти (метал, графіт на папері, фотографія, атласна стрічка) 
-Від експозиції: НАМУ, Київ
+Об’єкти (метал, графіт на папері, фотографія, атласна стрічка) <br>
+Вигляд експозиції: НАМУ, Київ
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/kholostenko/kholostenko09-min.png)
 <br><br>
 
