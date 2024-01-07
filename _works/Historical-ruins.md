@@ -9,6 +9,7 @@ thumb_url: /assets/images/historical-pictures-of-the-contemporary-ruins/ruins3.j
 transfer print, graphite on the paper, 2019
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/ruins1.jpg#50)
+<br>
 *Exhibition view: Tale of Novorossiya, Arsenal Gallery, Poznan, Poland. Photo:Tomasz Pawłowski*
 <br><br>
 <br><br>
