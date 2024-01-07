@@ -48,7 +48,7 @@ Technical support: Sergii Sabakar
 #### Дисципліноване бачення
 
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/Disciplined-Vision1.jpg)
-![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/Disciplined-Vision2.jpg)
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/Disciplined-Vision2.jpeg)
 
 
 </section>
