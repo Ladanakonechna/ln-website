@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dedication: Traces and Tactics, Kristianstads Konsthall
+title:  Dedication. Traces and Tactics, Kristianstads Konsthall
 date:   2021-10-16
 categories: news
 ---

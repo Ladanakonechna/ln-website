@@ -19,9 +19,11 @@ The exhibition is addressing larger issues pertaining to nationalism and nation 
 The starting point for the invited artists was to look at the collection and explore ways of thinking beyond nation states. Dreaming of new ways of organizing something as fundamental as nation states is not an easy task and with the full-scale invasion of Ukraine on 24 February 2022 by Russia it has become almost impossible.
 The newly commissioned works will become part of Malmö Konstmuseum’s permanent art collection, emerging as extensions and interpretations of the existing Latvian collection, providing windows into how it was perceived in 2022 for future curators, artists, and visitors. This way, the collection-building process stretches in time towards present and going beyond the borders of the Latvian nation state.
 <br>
+<br>
 Curated by Inga Lāce and Lotte Løvholm
 Exhibition architect: Līva Kreislere
 Graphic design: Rūta Jumīte
+<br>
 <br>
 Commissioned works by:
 Makda Embaie
