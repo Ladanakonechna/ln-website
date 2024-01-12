@@ -6,13 +6,12 @@ categories: news
 ---
 
 <section markdown="1" class="EN">
-
-October 16, 2021 - January 30, 2022.
-Dedication - Traces and Tactics. Contemporary Art from Ukraine.
+	
+**Dedication - Traces and Tactics. Contemporary Art from Ukraine**
 Kristianstads konsthall, Kristianstad, Sweden
+October 16, 2021 - January 30, 2022.
 <br>
-<br>
-<br>
+
 The exhibition Dedication – Traces and Tactics at Kristianstads konsthall examines the challenges of today as seen through our inseverable connection to the past. Through art, we can work with history to illuminate the present and imagine the future.
 
 The exhibition has its origin in Kristianstad’s unique historical relationship with Ukraine, Sweden’s ally during the Great Northern War of 1700–1721. After the Skirmish at Bender, Swedish king Charles XII invited the hetman of the Zaporozhian Army Filip Orlik (1672–1742) and his family to Kristianstad, where they lived in exile during the period 1716–1719. Orlik had earlier drafted Ukraine’s first constitution, in 1710, one of the earliest constitutions in Europe based on the principle of distribution of power.
