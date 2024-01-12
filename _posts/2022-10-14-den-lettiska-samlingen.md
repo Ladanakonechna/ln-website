@@ -9,7 +9,7 @@ categories: news
 
 **The Latvian collection** <br>
 Malmö Konstmuseum<br>
-December 02 - April 16, 2022
+December 02, 2022 - April 16, 2022
 <br>
 In which ways are museums and artists vehicles for nation state building? How does collection-building intertwine with cultural diplomacy and politics of countries?
 The Latvian collection of Malmö Konstmuseum was given to the museum as a donation in 1939 and was on permanent display until 1958. There are landscape paintings, portraits, still life, illustrations, scenography and images of war, primarily from the 1930s.
