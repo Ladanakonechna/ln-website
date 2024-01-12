@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kaleidoscope of (Hi)stories. Ukrainian Art 1912–2023, Albertinum, Dresden
+title:  Kaleidoscope of (Hi)stories. Ukrainian Art 1912–2023, Dresden
 date:   2023-05-06
 categories: news
 ---
