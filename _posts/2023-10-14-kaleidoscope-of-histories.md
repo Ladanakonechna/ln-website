@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kaleidoscope of (Hi)stories. Ukrainian Art 1912–2023, Museum De Fundatie, Zwolle
+title:  Kaleidoscope of (Hi)stories. Ukrainian Art 1912–2023, Museum De Fundatie
 date:   2023-10-14
 categories: news
 ---
