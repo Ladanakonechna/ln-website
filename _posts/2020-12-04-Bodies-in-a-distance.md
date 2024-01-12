@@ -26,7 +26,7 @@ At the same time, the artist signals that she is aware of the aesthetic and cult
 <br>
 Marek Wasilewski
 <br>
-[More info and conversation between Marek Wasilewski Lada Nakonechna](http://galeriaskala.com/en/bodies-in-the-distance/)
+[See more at the SKALA website](http://galeriaskala.com/en/bodies-in-the-distance/)
 
 </section>
 
