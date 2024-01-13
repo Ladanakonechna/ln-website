@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Letter from the Front, Haus der Kunst
+title:  A Letter from the Front, Haus der Kunst, München
 date:   2022-03-22
 categories: news
 ---
