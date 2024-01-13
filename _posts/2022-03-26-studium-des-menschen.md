@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Studium des Menschen, Galerie EIGEN + ART Leipzig
+title:  Studium des Menschen, Galerie Eigen + Art, Leipzig
 date:   2022-03-26
 categories: news
 ---
