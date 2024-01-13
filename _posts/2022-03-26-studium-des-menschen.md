@@ -8,7 +8,7 @@ categories: news
 <section markdown="1" class="EN">
 
 **Studium des Menschen** <br>
-Malmö Konstmuseum<br>
+Galerie EIGEN + ART Leipzig<br>
 March 26, 2022 - April 24, 2022
 <br>
 The classic training in painting and drawing at the National
@@ -22,7 +22,7 @@ history and the present. From each of these objects of study, Lada
 Nakonechna molded one body part, the knee, in paper mâché.
 <br>
 [The exhibition text by Carolin Krahl](https://www.eigen-art.com/files/LNakonechna_Flyer_en.pdf)
-
+<br>
 [See more at the Galerie EIGEN + ART website](https://eigen-art.com/en/exhibitions/archive/lada-nakonechna/)
 
 </section>
