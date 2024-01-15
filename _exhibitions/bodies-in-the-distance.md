@@ -13,8 +13,8 @@ SKALA gallery, Poznan, Poland
 
 <br>
 <br>
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/1skala2020.jpg#30)
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/1skala2020.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg#50)
 *Photos: Tomasz Koszewnik*
 
 <br><br>
@@ -42,7 +42,9 @@ Marek Wasilewski
 <section markdown="1" class="UKR">
 #### Тіла на відстані ####
 Виставка
-
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 <br><br>
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/window-poznan.jpg)
@@ -58,7 +60,7 @@ Marek Wasilewski
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/dedicated1.jpg#50)
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/dedicated2.jpg#50)
 <br><br>
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala8.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala8.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/pol-protests.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/pol-protests2.jpg)
 
