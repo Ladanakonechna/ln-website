@@ -50,20 +50,19 @@ Translation by Mitch Cohen
 <section markdown="1" class="UKR">
 ### Зображення з-за кордону ####
 Виставка
-Kristianstads Konsthall, Sweden_2021 <br>
-<br>
+
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/from-abroad-kristianstad.png)
-<br>
+Kristianstads Konsthall, Sweden_2021 
 <br>
 <br>
 <br>
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad10.jpg)
-
 *List of domains, 2019. Found footage, photographs with cut-out and drawing*<br>
 *Реєстр ділянок, 2019. Знайдені кадри, вирізки та рисунок на фотографії*
-
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad 11.jpg)
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad 12.jpg)
@@ -71,25 +70,22 @@ Kristianstads Konsthall, Sweden_2021 <br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad 13.jpg)
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad 14.jpg)
-
 *Work on the ground, 2019. Series of drawings (transfer print, graphite on paper)*<br>
 *Робота на землі, 2019. Серія малюнків (переносний друк, графіт на папері)*
-
-
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad3.jpg)
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad5.jpg)
 
-
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad_Occupation.jpg)
-
 *Occupation, 2019. Transfer print, graphite on paper*<br>
 *Окупація, 2019. Переносний друк, графіт на папері*
-
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad2.jpg)
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/capture-min.png)
-
 *Capture 1, 2019. Transfer print, crayon on paper*<br>
 *Захоплення 1, 2019. Переносний друк, кольоровий олівець на папері*
 <br>
@@ -97,10 +93,10 @@ Kristianstads Konsthall, Sweden_2021 <br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad_marking 2.jpg)
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad_Marking_1 copy.jpg)
-
 *Marking 1, 2019. Transfer print, crayon and graphite on paper*<br>
 *Маркування 1, 2019. Переносний друк, кольоровий та графітний олівець на папері*
-
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad7.jpg)
 
 </section>
