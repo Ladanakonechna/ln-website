@@ -15,6 +15,7 @@ SKALA gallery, Poznan, Poland
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/1skala2020.jpg#50)
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg#50)
+<br>
 *Photos: Tomasz Koszewnik*
 
 <br><br>
@@ -42,10 +43,6 @@ Marek Wasilewski
 <section markdown="1" class="UKR">
 #### Тіла на відстані ####
 Виставка
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 <br><br>
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/window-poznan.jpg)
 <br><br>
