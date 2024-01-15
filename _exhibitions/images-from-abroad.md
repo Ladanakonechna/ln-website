@@ -99,6 +99,11 @@ Kristianstads Konsthall, Sweden_2021
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad_marking 2.jpg)
 
+![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad_Marking_1 copy.jpg)
+
 *Marking 1, 2019. Transfer print, crayon and graphite on paper*
 *Маркування 1, 2019. Переносний друк, кольоровий та графітний олівець на папері*
+
+![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad7.jpg)
+
 </section>
