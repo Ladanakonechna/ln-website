@@ -6,19 +6,16 @@ thumb_url: /assets/images/bodies-in-a-distance/skala20206.jpg
 ---
 
 <section markdown="1" class="EN">
-4—26.12.2020 <br>
-Виставка/ Exhibition
+Exhibition
+<br>
+4—26.12.2020 
+SKALA gallery, Poznan, Poland
 
 <br>
 <br>
 
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg)
-
-<br><br>
-Opening: Friday, 4 December, g. 12pm 
-
-<br><br>
-Conversation between Marek Wasilewski Lada Nakonechna: Saturday, 5 December, g. 4 pm (live-stream)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/1skala2020.jpg)
+*Photos: Tomasz Koszewnik*
 
 <br><br>
 Exhibition is available to view through front windows and online.
@@ -34,7 +31,37 @@ The minimalist, conceptual form of these creations identifies precisely where th
 At the same time, the artist signals that she is aware of the aesthetic and cultural context that comprises the codes, with which she can communicate with her viewers. Her actions are aimed at retrieving social consciousness and creating alternative narrations, which will aid the process of political and cultural emancipation.
 <br><br>
 Marek Wasilewski
+
+
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/autoportreit.jpg)
+
 </section>
 
 <section markdown="1" class="UKR">
+#### Тіла на відстані ####
+Виставка
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg)
+
+<br><br>
+<br><br>
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/window-poznan.jpg)
+<br><br>
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala5.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala3.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/package.jpg#30)
+
+
+<br><br>
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/dedicated0.jpg)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/dedicated.jpg)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/dedicated1.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/dedicated2.jpg#50)
+<br><br>
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala8.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/pol-protests.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/dedicated2.jpg#50)
+
+
+
+
 </section>
