@@ -25,7 +25,6 @@ The installation The So-Called comprised of paper with text that is crumpled aro
 <br><br>
 <br>
 На папері, яким обернуто камені, штампами орнаментально надруковано слова, що широко використовуються медія заради провокацій конфлікту або вживаються для означення погляду супротивника. Слово використовується як тавро, як зброя та як інструмент визначення “з ким ти”.
-
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/the-so-called/so-called1.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/the-so-called/so-called2.jpg)

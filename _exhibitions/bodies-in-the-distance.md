@@ -13,7 +13,6 @@ SKALA gallery, Poznan, Poland
 
 <br>
 <br>
-
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/1skala2020.jpg#30)
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg#30)
 *Photos: Tomasz Koszewnik*
