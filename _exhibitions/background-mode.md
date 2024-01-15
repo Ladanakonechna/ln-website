@@ -6,7 +6,10 @@ thumb_url: /assets/images/background-mode/following3.jpg
 ---
 
 <section markdown="1" class="EN">
-Galerie EIGEN+ART Leipzig/Berlin, Leipzig, Germany, 2018
+Exhibition
+<br>
+13.01 - 10.02.2018
+Galerie EIGEN+ART Leipzig/Berlin, Leipzig, Germany
 
 
 
@@ -34,7 +37,8 @@ In the exhibition space, the protagonist is the motif of the traditional picture
 </section>
 
 <section markdown="1" class="UKR">
-#### Фоновий режим
+#### Фоновий режим ####
+Виставка
 <br>
 <br>
 <br>
