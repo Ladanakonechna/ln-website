@@ -8,13 +8,14 @@ thumb_url: /assets/images/bodies-in-a-distance/skala20206.jpg
 <section markdown="1" class="EN">
 Exhibition
 <br>
-4—26.12.2020 
+4—26.12.2020 <br>
 SKALA gallery, Poznan, Poland
 
 <br>
 <br>
 
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/1skala2020.jpg)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/1skala2020.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg#30)
 *Photos: Tomasz Koszewnik*
 
 <br><br>
@@ -34,13 +35,14 @@ Marek Wasilewski
 
 
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/autoportreit.jpg)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/negotiation-table.jpg)
+
 
 </section>
 
 <section markdown="1" class="UKR">
 #### Тіла на відстані ####
 Виставка
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala20206.jpg)
 
 <br><br>
 <br><br>
@@ -48,7 +50,7 @@ Marek Wasilewski
 <br><br>
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala5.jpg#30)
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala3.jpg#30)
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/package.jpg#30)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/package.jpg)
 
 
 <br><br>
@@ -58,8 +60,8 @@ Marek Wasilewski
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/dedicated2.jpg#50)
 <br><br>
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/skala8.jpg#30)
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/pol-protests.jpg#50)
-![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/dedicated2.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/pol-protests.jpg)
+![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/pol-protests2.jpg)
 
 
 
