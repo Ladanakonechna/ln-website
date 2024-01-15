@@ -12,7 +12,8 @@ Installation (photography mounted on the wall), 2012
 <br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/almost-the-same/almost-the-same.jpg#50)
-*Photo: Kostiantyn Strilets*
+<br>
+*Exposition photos: Kostiantyn Strilets*
 <br><br>
 
 
@@ -25,8 +26,11 @@ Installation (photography mounted on the wall), 2012
 Національний культурно-мистецький та музейний комплекс «Мистецький арсенал», Київ
 <br>
 <br>
+<br>
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/almost-the-same/almost-the-same2.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/almost-the-same/almost-the-same3.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/almost-the-same/almost-the-same1.jpg)
-*Фотографії: Костянтин Стрілець*
+*Фотографії експозиції: Костянтин Стрілець*
 </section>
