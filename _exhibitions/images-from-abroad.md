@@ -14,7 +14,7 @@ January 9 – February 20, 2020
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad exp2.jpg#50)
 
 <br><br>
-January 2020
+<br>
 <br><br>
 The photograph of a riverine landscape lined with trees provides the prologue to the exhibition: a small bridge in the center of the picture, footpaths, and an artificial 
 water inlet point to human intervention. But Nakonechna opens up another pictorial level by presenting the black-and- white photo as a screenshot taken during 
@@ -50,14 +50,10 @@ Translation by Mitch Cohen
 <section markdown="1" class="UKR">
 ### Зображення з-за кордону ####
 Виставка
-Galerie EIGEN + ART Berlin <br>
-Січень 9 – Лютий 20, 2020
+Kristianstads Konsthall, Sweden_2021 <br>
+<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/from-abroad-kristianstad.png)
-Kristianstads Konsthall, Sweden_2021
-
-
-
 <br>
 <br>
 <br>
@@ -65,7 +61,7 @@ Kristianstads Konsthall, Sweden_2021
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad10.jpg)
 
-*List of domains, 2019. Found footage, photographs with cut-out and drawing*
+*List of domains, 2019. Found footage, photographs with cut-out and drawing*<br>
 *Реєстр ділянок, 2019. Знайдені кадри, вирізки та рисунок на фотографії*
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad 11.jpg)
@@ -76,7 +72,7 @@ Kristianstads Konsthall, Sweden_2021
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad 14.jpg)
 
-*Work on the ground, 2019. Series of drawings (transfer print, graphite on paper)*
+*Work on the ground, 2019. Series of drawings (transfer print, graphite on paper)*<br>
 *Робота на землі, 2019. Серія малюнків (переносний друк, графіт на папері)*
 
 
@@ -87,21 +83,22 @@ Kristianstads Konsthall, Sweden_2021
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad_Occupation.jpg)
 
-*Occupation, 2019. Transfer print, graphite on paper*
+*Occupation, 2019. Transfer print, graphite on paper*<br>
 *Окупація, 2019. Переносний друк, графіт на папері*
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad2.jpg)
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/capture-min.png)
 
-*Capture 1, 2019. Transfer print, crayon on paper*
+*Capture 1, 2019. Transfer print, crayon on paper*<br>
 *Захоплення 1, 2019. Переносний друк, кольоровий олівець на папері*
+<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad_marking 2.jpg)
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad_Marking_1 copy.jpg)
 
-*Marking 1, 2019. Transfer print, crayon and graphite on paper*
+*Marking 1, 2019. Transfer print, crayon and graphite on paper*<br>
 *Маркування 1, 2019. Переносний друк, кольоровий та графітний олівець на папері*
 
 ![imagetest]({{site.baseurl}}/assets/images/images-from-abroad/images from abroad7.jpg)
