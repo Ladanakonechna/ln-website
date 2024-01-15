@@ -2,7 +2,7 @@
 layout: page
 title: Perspective
 year: 2021
-thumb_url: /assets/images/perspektiva-perspective/library2.jpg
+thumb_url: /assets/images/perspective/library2.jpg
 ---
 
 <section markdown="1" class="EN">
