@@ -8,7 +8,7 @@ thumb_url: /assets/images/background-mode/following3.jpg
 <section markdown="1" class="EN">
 Exhibition
 <br>
-13.01 - 10.02.2018
+13.01 - 10.02.2018<br>
 Galerie EIGEN+ART Leipzig/Berlin, Leipzig, Germany
 
 
