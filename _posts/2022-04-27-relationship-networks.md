@@ -8,7 +8,7 @@ categories: news
 <section markdown="1" class="EN">
 
 **Relationship networks. Violence** <br>
-ecture & Workshop<br>
+Lecture & Workshop<br>
 27 Apr 2022 – 3 Mai 2022<br>
 HGB Leipzig, Room 2.15 & 2.41  
 
