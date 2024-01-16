@@ -9,7 +9,7 @@ categories: news
 
 **The Attentive Museum—Permeable Practices for a Common Ground** <br>
 IMAM 2022 Annual Conference<br>
-11. – 13.11.2022<br>
+11.—13.11.2022<br>
 Es Baluard Museu d’Art Contemporani de Palma, Mallorca, Spain 
 
 
@@ -17,11 +17,11 @@ From November 11–13, 2022, CIMAM will hold the 54th edition of its Annual Conf
 
 The 12 speakers will reflect on the concept of The Attentive Museum and propose different models that can provide a roadmap for institutions through an exploration of new models of governance, and narratives of decolonial discourses, concluding with a vision beyond the museum world to collectives and new institutional models from which we can learn a more sustainable future.
 
-Day 3: Learning from the Community: Collective Actions in the Face of Emergency
-Emily Jacir, Founder/Director, Dar Jacir for Art and Research, Bethlehem, Palestinian Territories
-***Lada Nakonechna, Artist, Method Fund, Kyiv, Ukraine***
-Philip Rizk, film-maker/artist, Mosireen video collective, Berlin, Germany/Cairo, Egypt
-Kike España, Dr. Architect, Urban researcher, La Casa Invisible, Malaga, Spain
+Day 3: Learning from the Community: Collective Actions in the Face of Emergency<br>
+Emily Jacir, Founder/Director, Dar Jacir for Art and Research, Bethlehem, Palestinian Territories<br>
+***Lada Nakonechna, Artist, Method Fund, Kyiv, Ukraine***<br>
+Philip Rizk, film-maker/artist, Mosireen video collective, Berlin, Germany/Cairo, Egypt<br>
+Kike España, Dr. Architect, Urban researcher, La Casa Invisible, Malaga, Spain<br>
 Panel Discussion moderated by Manuel Borja-Villel, Director, Museo Nacional Centro de Arte Reina Sofía, Madrid
 
 
