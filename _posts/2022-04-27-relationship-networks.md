@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Relationship networks. Violence. Lecture & Workshop
-date:   2023-04-27
+date:   2022-04-27
 categories: news
 ---
 
