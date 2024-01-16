@@ -6,17 +6,24 @@ thumb_url: /assets/images/perspective/library2.jpg
 ---
 
 <section markdown="1" class="EN">
-University Library Albertina, Leipzig, Germany
-(graphite on the wall), 2011
+University Library Albertina, Leipzig, Germany<br>
+Public art project (graphite on the wall), 2011
 
 <br>
 <br>
 
-![imagetest]({{site.baseurl}}/assets/images/perspective/library2.jpg)
+![imagetest]({{site.baseurl}}/assets/images/perspective/library2.jpg#50)
 
-<br><br>
+<br>
 
 </section>
 
 <section markdown="1" class="UKR">
+![imagetest]({{site.baseurl}}/assets/images/perspective/library_photo-Peter Groth.jpg)
+*Photo: Peter Groth*
+<br>
+![imagetest]({{site.baseurl}}/assets/images/perspective/library4.JPG)
+![imagetest]({{site.baseurl}}/assets/images/perspective/library3.JPG)
+![imagetest]({{site.baseurl}}/assets/images/perspective/library1.JPG)
+![imagetest]({{site.baseurl}}/assets/images/perspective/library-min.JPG)
 </section>
