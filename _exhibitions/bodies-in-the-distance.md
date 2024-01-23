@@ -41,7 +41,7 @@ Marek Wasilewski
 </section>
 
 <section markdown="1" class="UKR">
-#### Тіла на відстані ####
+## Тіла на відстані ##
 Виставка
 <br><br>
 ![imagetest]({{site.baseurl}}/assets/images/bodies-in-a-distance/window-poznan.jpg)
