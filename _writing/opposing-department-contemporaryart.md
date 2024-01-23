@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opposing the Department of Contemporary Art        Проти кафедри сучасного мистецтвa
+title: Opposing the Department of Contemporary Art______Проти кафедри сучасного мистецтвa
 year: 2020
 ---
 
