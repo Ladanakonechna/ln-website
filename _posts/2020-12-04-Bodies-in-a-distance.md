@@ -26,7 +26,7 @@ At the same time, the artist signals that she is aware of the aesthetic and cult
 <br>
 Marek Wasilewski
 <br>
-[See about]({{ site.baseurl }}{% link exhibitions/bodies-in-the-distance.md %})
+[See about]({{ site.baseurl }}{% link _exhibitions/bodies-in-the-distance.md %})
 <br>
 [See more at the SKALA website](http://galeriaskala.com/en/bodies-in-the-distance/)
 
