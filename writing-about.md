@@ -20,3 +20,6 @@ permalink: /writing-about/
 <a href="https://eigen-art.com/en/artists/lada-nakonechna/text/">EN/ Observing the Artist as Another Object by Mariana Matveichuk</a> 
 <br>
 <a href="https://eigen-art.com/kuenstlerinnen/lada-nakonechna/texte/">DE/ Die Künstlerin als weiteres Objekt betrachten von Mariana Matveichuk</a>
+<br>
+## 2013
+<a href="https://www.univerlag-leipzig.de/catalog/bookstore/article/1438-Lada_Nakonechna_Perspektive">DE/ Broschur "Lada Nakonechna. Perspektive," Leipziger Universitätsverlag</a> 
