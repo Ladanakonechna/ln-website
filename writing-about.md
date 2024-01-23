@@ -13,12 +13,9 @@ permalink: /writing-about/
 <br>
 <a href="https://www.faz.net/aktuell/feuilleton/kunstmarkt/die-ukrainische-kuenstlerin-lada-nakonechna-bei-eigen-art-17907252.html">DE/ Julia Voss Artikel im Frankfurter Allgemeine Zeitung</a>
 <br>
-## 2021
-<a href="https://sites.google.com/site/methodfund/news">Example writing title with a link</a>
+## 2020
+<a href="https://ocula.com/magazine/insights/images-from-abroad-lada-nakonechna/">EN/ About exhibition "Images from Abroad" at OCULA Magazine</a>
 <br>
-<a href="https://sites.google.com/site/methodfund/news">Example writing title with a link</a>
-<br>
-<a href="https://sites.google.com/site/methodfund/news">Example writing title with a link</a>
 ## 2016
 <a href="https://eigen-art.com/en/artists/lada-nakonechna/text/">EN/ Observing the Artist as Another Object by Mariana Matveichuk</a> 
 <br>
