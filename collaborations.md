@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborations
-permalink: /rep-group/
+permalink: /collaborations/
 ---
 
 <section markdown="1" class="EN">
@@ -13,9 +13,9 @@ In their work, the R.E.P. group addresses a number of themes that are variously 
 e-mail: <revolutionaryexperimentalspace@gmail.com>
 
 
-[R.E.P. CV]({{ site.baseurl }}{% link rep-group/rep-cv.md %})
+[R.E.P. CV]({{ site.baseurl }}{% link collaborations/rep-cv.md %})
 
-[R.E.P. Projects]({{ site.baseurl }}{% link rep-group/rep-projects.md %})
+[R.E.P. Projects]({{ site.baseurl }}{% link collaborations/rep-projects.md %})
 </section>
 
 <section markdown="1" class="UKR">
