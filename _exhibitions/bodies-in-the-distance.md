@@ -8,7 +8,7 @@ thumb_url: /assets/images/bodies-in-a-distance/skala20206.jpg
 <section markdown="1" class="EN">
 Exhibition
 <br>
-4—26.12.2020 <br>
+4. — 26.12.2020 <br>
 SKALA gallery, Poznan, Poland
 
 <br>
