@@ -7,7 +7,7 @@ permalink: /writing-about/
 #### [Writing by the artist]({{site.baseurl}}{% link writing.md %})  | Writing about the artist 
 <br>
 ## 2023
-<a href="https://sites.google.com/site/methodfund/news">Example PDF link</a>
+<a href="https://art.db.com/artmag/re-reading-alienation-effects-drawings-by-the-ukrainian-artist-lada-nakonechna">EN/ Alienation Effects - Drawings by the Ukrainian Artist Lada Nakonechna at DB ArtMag</a>
 ## 2022
 <a href="https://www.monopol-magazin.de/lada-nakonechna-eigen-art-leipzig?slide=2">DE/ Sarah Alberti Artikel im MONOPOL-Magazin</a>
 <br>
