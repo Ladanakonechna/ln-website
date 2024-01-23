@@ -17,4 +17,6 @@ permalink: /writing-about/
 <a href="https://sites.google.com/site/methodfund/news">Example writing title with a link</a>
 <br>
 <a href="https://sites.google.com/site/methodfund/news">Example writing title with a link</a>
-
+## 2016
+<a href="https://eigen-art.com/en/artists/lada-nakonechna/text/">Observing the Artist as Another Object by Mariana Matveichuk</a> <br>
+<a href="https://eigen-art.com/kuenstlerinnen/lada-nakonechna/texte/">Die Künstlerin als weiteres Objekt betrachten von Mariana Matveichuk</a>
