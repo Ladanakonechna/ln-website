@@ -9,7 +9,7 @@ permalink: /writing-about/
 ## 2023
 <a href="https://sites.google.com/site/methodfund/news">Example PDF link</a>
 ## 2022
-<a href="https://sites.google.com/site/methodfund/news">Example writing title with a link</a>
+<a href="https://www.monopol-magazin.de/lada-nakonechna-eigen-art-leipzig?slide=2">DE/ Sarah Alberti Artikel im MONOPOL-Magazin</a>
 <br>
 ## 2021
 <a href="https://sites.google.com/site/methodfund/news">Example writing title with a link</a>
