@@ -14,8 +14,8 @@ Galerie EIGEN+ART Leipzig/Berlin, Leipzig, Germany
 
 
 
-![imagetest]({{site.baseurl}}/assets/images/background-mode/BackgrM_exp_4.jpg#50)
 ![imagetest]({{site.baseurl}}/assets/images/background-mode/following2.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/background-mode/BackgrM_exp_4.jpg#50)
 
 
 [>Exhibition text by Kateryba Badianova](https://eigen-art.com/en/exhibitions/archive/lada-nakonechna-background/)
