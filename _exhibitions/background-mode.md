@@ -15,7 +15,6 @@ Galerie EIGEN+ART Leipzig/Berlin, Leipzig, Germany
 
 
 ![imagetest]({{site.baseurl}}/assets/images/background-mode/following2.jpg#50)
-![imagetest]({{site.baseurl}}/assets/images/background-mode/BackgrM_exp_4.jpg#50)
 
 
 [>Exhibition text by Kateryba Badianova](https://eigen-art.com/en/exhibitions/archive/lada-nakonechna-background/)
@@ -42,8 +41,12 @@ In the exhibition space, the protagonist is the motif of the traditional picture
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+![imagetest]({{site.baseurl}}/assets/images/background-mode/BackgrM_exp_4.jpg#50)
 ![imagetest]({{site.baseurl}}/assets/images/background-mode/following1.jpg#50)
-![imagetest]({{site.baseurl}}/assets/images/background-mode/BackgrM_exp_5.jpg#50)
+
 
 [>Стаття "Деталізувати темряву", Керолін Крал, Prostory.net.ua, 2018](hhttps://prostory.net.ua/en/9-publikatsii/krytyka/335-to-detail-darkness) 
 <br>
@@ -53,10 +56,8 @@ In the exhibition space, the protagonist is the motif of the traditional picture
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 ![imagetest]({{site.baseurl}}/assets/images/background-mode/perspective_reduction2.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/background-mode/perspective_reduction1.jpg)
+![imagetest]({{site.baseurl}}/assets/images/background-mode/BackgrM_exp_5.jpg#50)
 
 </section>
