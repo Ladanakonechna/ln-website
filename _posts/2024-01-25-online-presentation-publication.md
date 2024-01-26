@@ -13,7 +13,10 @@ categories: news
 Catalogue of two exhibitions by artist Lada Nakonechna: Disciplined Vision (NAMU, Kyiv, 2021) and Disciplined Vision: School (Artsvit Gallery, Dnipro, Ukraine, 2021). 
 The catalogue includes texts written by various authors offering a critical analysis of the artist’s exhibitions, artistic methods, and specific artworks from various years.
 <br>
+<br>
 Nakonechna, Lada. Disciplined Vision : Catalog of Exhibitions. — Kyiv : Master of Books. 2022. — 176 p.
+<br>
+<br>
 <br>
 Contents:
 Block A is an Album comprising the texts, exhibition views, and images of individual artworks from the exhibitions Disciplined Vision and Disciplined Vision: School, which took place, respectively, at NAMU, Kyiv, and Artsvit Gallery, Dnipro,Ukraine in 2021.
@@ -22,13 +25,18 @@ Block A is an Album comprising the texts, exhibition views, and images of indivi
 Block B consists of texts written by vari- ous authors for the catalogue. Some focus on the issues addressed in the Disciplined Vision exhibitions, while others offer
 a critical examination of Lada Nakonechna’s works and artistic methods. The artist’s works from various years appear alongside the texts.
 <br>
+<br>
 Kateryna Badianova “Working with (Your Own) Viewing Experience”
+<br>
 <br>
 Oksana Barshynova “Examining Fragments of the Past” 
 <br>
+<br>
 Yevgenia Belorusets “Working with Photography” 
 <br>
+<br>
 Pavel Khailo “The Politics of Phototaxis” 
+<br>
 <br>
 Anna Łazar “Lada Nakonechna’s Art of Reflection”
 
