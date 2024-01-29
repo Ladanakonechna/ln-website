@@ -10,6 +10,10 @@ categories: news
 **Сatalog Nakonechna Lada "Disciplined vision" is published** <br>
 <br>
 <br>
+![imagetest]({{site.baseurl}}/assets/images/posts/
+catalog.JPG#50)
+<br>
+<br>
 Catalogue of two exhibitions by artist Lada Nakonechna: Disciplined Vision (NAMU, Kyiv, 2021) and Disciplined Vision: School (Artsvit Gallery, Dnipro, Ukraine, 2021). 
 The catalogue includes texts written by various authors offering a critical analysis of the artist’s exhibitions, artistic methods, and specific artworks from various years.
 <br>
