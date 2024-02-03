@@ -26,6 +26,8 @@ Represented by Eigen+Art Gallery/Berlin.
 [Full list of exhibitions](https://docs.google.com/document/d/1RZfJxb-i1s_U8SORbKXLLNO2reoe8FDwPIXGCfnrx9g/edit?usp=sharing)
 
 [Statement at the Secondary Archive](https://secondaryarchive.org/artists/lada-nakonechna/)
+<br>
+Contact: admin@ladanakonechna.com
 
 <section markdown="1" class="UKR">
 
