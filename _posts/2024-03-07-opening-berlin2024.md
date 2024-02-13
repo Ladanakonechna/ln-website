@@ -18,7 +18,7 @@ eigen-art.com
 @galerie_eigenart
 <br>
 <br>
-![imagetest]({{site.baseurl}}/assets/images/posts/invitation-berlin-2024#50)
+![imagetest]({{site.baseurl}}/assets/images/posts/invitation-berlin-2024.png#50)
 <br>
 </section>
 
