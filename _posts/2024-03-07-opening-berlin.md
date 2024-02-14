@@ -11,7 +11,7 @@ categories: news
 07.03 — 20.04.2024
 Galerie EIGEN + ART 
 
-opening 17:00 -20:00
+opening 17:00 - 20:00
 
 Auguststraße 26 10117 Berlin 
 eigen-art.com 
