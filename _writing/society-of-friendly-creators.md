@@ -5,11 +5,9 @@ year: 2024
 ---
 
 <section markdown="1" class="EN">
-Lerchenfeld Nr. 69, Februar 2024, Hamburg, 
-[Society of Friendly Creators](https://hfbk-hamburg.de/documents/1134/Lf_69_web.pdf) <br>
-Pages 52-55.
+Lerchenfeld Nr. 69, Februar 2024, Hamburg<br>
+[Society of Friendly Creators](https://hfbk-hamburg.de/documents/1134/Lf_69_web.pdf) by Lada Nakonechna, p. 52-55
 <br>
-The article is about Larion Lozovyi's art practice.
 </section>
 
 
