@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Below Ground Level. Ehxibition. Berlin
+title:  Below Ground Level. Exhibition opening March 07. Berlin
 date:   2024-02-15
 categories: news
 ---
@@ -14,7 +14,9 @@ Galerie EIGEN + ART
 opening 17:00 - 20:00
 
 Auguststraße 26 10117 Berlin 
+<br>
 eigen-art.com 
+<br>
 @galerie_eigenart
 <br>
 <br>
