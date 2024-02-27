@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  OBSERVE THIS MOMENT – how it convulses. Exhibition opening March 01. Berlin
+title:  Observe this moment – how it convulses. Group exhibition. Białystok, Poland
 date:   2024-02-15
 categories: news
 ---
 
 <section markdown="1" class="EN">
 
-**Below Ground Level** <br>
+**Observe this moment – how it convulses** <br>
 01.03.2024 - 28.04.2024
 Galeria Arsenał elektrownia, Białystok, Poland
 
-opening March 1, 19:00
+Opening March 1, 19:00
 ul. Elektryczna 13, Białystok (wejście od ul. Świętojańskiej)
 <br>
 
