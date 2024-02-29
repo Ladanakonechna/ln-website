@@ -8,9 +8,12 @@ categories: news
 <section markdown="1" class="EN">
 
 **Observe this moment – how it convulses** <br>
-01.03.2024 - 28.04.2024
+01.03.2024 - 28.04.2024<br>
 Galeria Arsenał elektrownia, Białystok, Poland
 
+![imagetest]({{site.baseurl}}/assets/images/posts/Observe-this-moment2024.png#50)
+<br>
+<br>
 Opening March 1, 19:00
 ul. Elektryczna 13, Białystok (wejście od ul. Świętojańskiej)
 <br>
