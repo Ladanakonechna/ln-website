@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Observe this moment – how it convulses. Group exhibition. Białystok, Poland
-date:   2024-02-15
+date:   2024-03-01
 categories: news
 ---
 
