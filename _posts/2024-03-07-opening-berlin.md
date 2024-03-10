@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Below Ground Level. Exhibition opening March 07. Berlin
-date:   2024-03-02
+date:   2024-03-07
 categories: news
 ---
 
