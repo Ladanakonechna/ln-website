@@ -15,7 +15,7 @@ Leipziger Buchmesse
 <br>
 
 
-![imagetest]({{site.baseurl}}/assets/images/posts/leipzig-buchmesse1-min.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/posts/leipzig-buchmesse1-min.jpg#50)<br>
 *photo: Goethe-Institut Ukraine*
 <br>
 21.03.24
@@ -26,7 +26,7 @@ Die Entwicklung internationaler Partnerschaften bedeutet immer auch neue bilater
 
 <br>
 <br>
-![imagetest]({{site.baseurl}}/assets/images/posts/leipzig-buchmesse2-min.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/posts/leipzig-buchmesse2-min.jpg#50)<br>
 *photo: Goethe-Institut Ukraine*
 <br>
 23.03.24
