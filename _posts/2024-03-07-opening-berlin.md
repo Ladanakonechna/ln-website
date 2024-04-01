@@ -23,7 +23,7 @@ eigen-art.com
 ![imagetest]({{site.baseurl}}/assets/images/posts/invitation-berlin-2024.png#50)
 
 <br>
-[Text by Kateryna Badianova](https://www.documenta-institut.de/en/artikel/ausstellung-von-lada-nakonechna-below-ground-level) <br>
+[Text by Kateryna Badianova](https://eigen-art.com/en/exhibitions/current/lada-nakonechna-_-below-ground-level-berlin/?from=cur) <br>
 
 <br>
 </section>
