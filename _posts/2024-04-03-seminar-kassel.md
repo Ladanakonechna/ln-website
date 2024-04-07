@@ -8,8 +8,10 @@ categories: news
 <section markdown="1" class="EN">
 
 
-**Universität Kassel and the Method Fund
+**Universität Kassel and the Method Fund<br>
 Summer semester 2024, online seminar**
+<br>
+<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/posts/seminar2024-kassel.jpg#50)
 <br>
@@ -23,6 +25,8 @@ The seminar is designed for Ukrainian students of humanities and arts at German 
 The guest-lecturers are Sasha Andrusyk, co-founder of the music agency UKHO, Olena Godenko-Nakonechna, cultural critic, Oksana Kazmina, artist, Anna Łazar, curator, Kateryna Mishchenko, publisher, Oleksandr Teliuk, film critic, Yaryna Tsymbal, literary scientist, Darya Tsymbalyuk, rechercher, Ganna Uliura, literary critic.
  
 
+
+With the support of the Hessisches Ministerium für Wissenschaft und Kunst
 </section>
 
 
