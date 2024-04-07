@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Seminar "How art utters war in a situation of the crisis of language"
+title:  Seminar How art utters war in a situation of the crisis of language
 date:   2024-04-03
 categories: news
 ---
