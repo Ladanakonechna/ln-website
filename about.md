@@ -19,7 +19,7 @@ In 2011 in Leipzig she realized project in public space - the wall drawing in th
 Works in public collections: Muzeum Sztuki w Łodzi, Philadelphia Museum of Art, Deutsche Bank Collection, Art Collection Telekom, Arsenal Gallery in Białystok, Malmö Kunstmuseum, National Art Museum of Ukraine and of the R.E.P. group at Le Centre Pompidou, Kontact Collection in Vienna, Arsenal Gallery in Lublin among others.
 
 
-Represented by Eigen+Art Gallery/Berlin.
+Represented by [Galerie Eigen+Art Gallery](https://eigen-art.com/)
 
 [BIO](https://docs.google.com/document/d/1eEWnJX_1xJ3wqGRRJojAK4cmeVona2bFbb6SAWXZlws/edit?usp=sharing)
 
