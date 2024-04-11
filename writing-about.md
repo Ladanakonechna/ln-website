@@ -21,5 +21,7 @@ permalink: /writing-about/
 <br>
 <a href="https://eigen-art.com/kuenstlerinnen/lada-nakonechna/texte/">DE/ Die Künstlerin als weiteres Objekt betrachten von Mariana Matveichuk</a>
 <br>
+<a href="https://prostory.net.ua/ua/mlp/mystetstvo/92-seriya-lady-nakonechnoj-merge-visible">RU/ Євгенія Бєлорусець про серію Лади Наконечної Merge Visible</a>
+<br>
 ## 2013
 <a href="https://www.univerlag-leipzig.de/catalog/bookstore/article/1438-Lada_Nakonechna_Perspektive">DE/ Broschur "Lada Nakonechna. Perspektive," Leipziger Universitätsverlag</a> 
