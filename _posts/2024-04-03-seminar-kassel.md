@@ -26,7 +26,7 @@ The guest-lecturers are Sasha Andrusyk, co-founder of the music agency UKHO, Ole
  
 
 
-With the support of the Hessisches Ministerium für Wissenschaft und Kunst
+*With the support of the Hessisches Ministerium für Wissenschaft und Kunst*
 </section>
 
 
