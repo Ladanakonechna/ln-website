@@ -8,7 +8,7 @@ categories: news
 <section markdown="1" class="EN">
 
 
-A public lecture series **Global Modernities?** is orginised by Kunst und Gesellschaft Fachgebiet University of Kassel and documenta Institute
+A public lecture series **Global Modernities?** is orginised by Kunst und Gesellschaft Fachgebiet University of Kassel and documenta Institute.
 <br>
 Concept and moderation: Prof. Dr. Liliana Gómez, Dr. Charlotte Bank, Lada Nakonechna
 <br>
@@ -18,7 +18,7 @@ Concept and moderation: Prof. Dr. Liliana Gómez, Dr. Charlotte Bank, Lada Nakon
 <br>
 <br>
 
-**Lecturers: Christian Kravagna, Wendy Shaw, Katrin Nahidi, Elize Mazadiego, Maristella Svampa, Silvia Naef, George Arbid, Magdalena Moskalewicz.**<br>
+Lecturers: **Christian Kravagna, Wendy Shaw, Katrin Nahidi, Elize Mazadiego, Maristella Svampa, Silvia Naef, George Arbid, Magdalena Moskalewicz.**<br>
 The lectures take place on Mondays from 6-8pm at the Museum Fridericianum (Seitenflügel), Kassel. <br>
 Full program is [here](https://www.documenta-institut.de/en/artikel/global-modernities)
 
