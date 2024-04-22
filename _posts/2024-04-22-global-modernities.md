@@ -8,7 +8,7 @@ categories: news
 <section markdown="1" class="EN">
 
 
-A public lecture series **Global Modernities?** is orginised by Kunst und Gesellschaft Fachgebiet University of Kassel and documenta Institute.
+A public lecture series **Global Modernities?** is organized by Kunst und Gesellschaft Fachgebiet University of Kassel and documenta Institute.<br>
 <br>
 Concept and moderation: Prof. Dr. Liliana Gómez, Dr. Charlotte Bank, Lada Nakonechna
 <br>
