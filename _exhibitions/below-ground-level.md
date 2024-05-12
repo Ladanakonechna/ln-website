@@ -36,11 +36,11 @@ Text by Kateryna Badianova
 
 ![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground.jpeg)
 <br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground4.jpeg)
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground4.pgn)
 <br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground7.jpeg)
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground7.pgn)
 <br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground7.jpeg)
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground6.jpeg)
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground5.jpeg)
 <br>
