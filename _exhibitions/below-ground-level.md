@@ -23,7 +23,8 @@ Lada Nakonechna processes the images in such a way that their this intentional m
 This leads to another question that Nakonechna is trying to address in her artistic practice —our level of reliance on media crutches. The artist's original reinvented language of a particular war may become vague in stereotypical abstract catastrophe when it is forced into conventional media and institutional frameworks. Understanding this, Nakonechna intentionally imposes certain geometric grids and compositional structures on the images–e.g. a browser window, or the vertical and horizontal preview of search results as they are displayed. The artistic and media methods of framing can manipulate reality by emphasizing or ignoring certain details.<br>
 The exhibition space as a picture frame also provides a framework for our perception. It creates a sense of distance and safety, protecting the viewer from images that may be beyond their ability to perceive. The window frame, for instance, metaphorically divides the space into the familiar and the unfamiliar, giving a paradoxical sense of relative safety. Moreover, the exhibition is also a public space that allows us to collectively observe the reality of danger, death, and the outgoing catastrophe, the world with no familiar ground to stand on.
 <br>
-Text by Kateryna Badianova
+<br>
+**Text by Kateryna Badianova**
 </section>
 
 <section markdown="1" class="UKR">
@@ -34,15 +35,15 @@ Text by Kateryna Badianova
 	<br>
 	<br>
 
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground.jpeg)
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground.jpeg
 <br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground4.pgn)
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground4.png
 <br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground7.pgn)
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground7.png
 <br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground6.jpeg)
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground6.jpg
 <br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground5.jpeg)
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground5.jpg
 <br>
 <br>
 </section>
