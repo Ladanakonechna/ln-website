@@ -15,7 +15,8 @@ With Lela Ahmadzai, Olexii Kuchanskyi, Lada Nakonechna & Omer Fast
 Hosted by Anna-Lena Werner & Mykola Ridnyi
 <br>
 
-25 of May 2024, 15:00 – 19:30
+25.05.2024, 15:00 – 19:30
+<br>
 Vierte Welt
 Kottbusser Tor im Zentrum Kreuzberg, Adalbertstr. 96, Galerie 1.OG, Berlin
 <br>
