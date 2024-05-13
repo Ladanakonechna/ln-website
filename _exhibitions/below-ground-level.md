@@ -28,14 +28,9 @@ The exhibition space as a picture frame also provides a framework for our percep
 </section>
 
 <section markdown="1" class="UKR">
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
 
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground.jpeg)
+
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground.jpg)
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground4.png)
 <br>
