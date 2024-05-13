@@ -24,13 +24,24 @@ This leads to another question that Nakonechna is trying to address in her artis
 The exhibition space as a picture frame also provides a framework for our perception. It creates a sense of distance and safety, protecting the viewer from images that may be beyond their ability to perceive. The window frame, for instance, metaphorically divides the space into the familiar and the unfamiliar, giving a paradoxical sense of relative safety. Moreover, the exhibition is also a public space that allows us to collectively observe the reality of danger, death, and the outgoing catastrophe, the world with no familiar ground to stand on.
 <br>
 <br>
-**Text by Kateryna Badianova**
+*Text by Kateryna Badianova*
 </section>
 
 <section markdown="1" class="UKR">
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground.jpg)
+<br>
+<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground4.png)
 <br>
