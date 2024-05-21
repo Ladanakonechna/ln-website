@@ -21,6 +21,8 @@ Vierte Welt
 Kottbusser Tor im Zentrum Kreuzberg, Adalbertstr. 96, Galerie 1.OG, Berlin
 <br>
 <br>
+![imagetest]({{site.baseurl}}/assets/images/posts/On(going)-Trauma.jpg#50)<br>
+
 
 Central to this first gathering of the discursive series “On(going) Trauma” are questions about representational limits and opportunities, image politics and selective framing processes of conveying war violence and traumatic events in mass media. What is at issue here is, on the one hand, the shift away from visual repetitions and reproductions of violence and, on the other hand, the creation of new methods and counter-images, as to communicate evidences of wars and conflicts.
 
