@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  On(going) Trauma-Artistic narratives on collective and individual wounds. A discursive series
-date:   2024-05-13
+date:   2024-05-25
 categories: news
 ---
 
