@@ -9,7 +9,7 @@ thumb_url: /assets/images/disciplinovane-bacenna-disciplined-vision/some_ex_dv20
 Exhibition <br>
 
 20.03.– 30.06.2021 <br>
-NAMU, Kyiv <br>
+NAMU-National Art Museum of Ukraine, Kyiv <br>
 
 
 <br>
@@ -33,10 +33,30 @@ The exhibition invites viewers to use their own experience to detect how images 
 
 <section markdown="1" class="UKR">
 #### Дисципліноване бачення
+Виставка
+<br><br>
+NAMU-Національний художній музей України
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/dv_main_2021-min.png)
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/Disciplined-Vision2.jpeg)
+<br>
+Очевидні зв’язки, 2021. Інсталяція (рисунки, живописні картини з колекції NAMU)<br>
+Obvious Connections, 2021. Installation (drawings, artworks from the NAMU collection)
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/perspective_dv2021-min.png)
+<br>
+Перспективне скорочення, 2018–2019. Рисунки (переносний друк, графіт на папері)
+Джерело зображення: Микола Бурачек «Дорога до колгоспу» (1937). Полотно, олія. З колекції NAMU<br>
+Perspective Reduction, 2018–2019. Drawings (transfer print, graphite on paper)
+Image source: Mykola Burachek. Road to the Collective Farm (1937). Oil on canvas. NAMU collection
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/some_ex_dv2021-min.png#50)
-
+<br>
+Декілька прикладів зі сфери управління. Відкриття, 2021. Рисунок (переносний друк, графіт на папері, дерево, акрилова вітрина) Джерело зображення: архів NAMU <br>
+Some Examples from the Field of Management: Opening, 2021. Drawing (transfer print, graphite on paper, wood, acrylic case)
+Image source: NAMU archive
 </section>
