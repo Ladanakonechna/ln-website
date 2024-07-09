@@ -6,20 +6,17 @@ categories: news
 ---
 
 <section markdown="1" class="EN">
-Screening and conversation with Magdalena Moskalewicz and Lada Nakonechna 
-on Tuesday, July 16, 10 – 12 am, at Kunsthochschule Kassel, Seminarraum Room 0223 Atrium
+Screening and conversation with Magdalena Moskalewicz and Lada Nakonechna <br>
+Tuesday, July 16, 10 – 12 am, at Kunsthochschule Kassel, Seminarraum Room 0223 Atrium
 [>>](https://www.documenta-institut.de/en/artikel/magdalena-moskalewicz-im-gespraech-mit-lada-nakonechna)
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/posts/Spectres 2024-min.jpg)
 <br>
 <br>
-Video works presented:
-Joanna Malinowska and C.T. Jasper. “Who is Afraid of Natasha?” 2021
+Video works presented:<br>
+Joanna Malinowska and C.T. Jasper. “Who is Afraid of Natasha?” 2021<br>
 R.E.P. group “R.E.P. correspondent. Academy,” 2006
 <br>
-
-This event is realized in the frame of the documenta Institute lecture series [“Global Modernities?”](https://www.documenta-institut.de/en/artikel/global-modernities) as an addition to the lecture on July 15, "The Aesthetics of Communist Modernity. System versus Style," by Magdalena Moskalewicz, 6 pm, Fridericianum, Kassel 
-
 <br>
 <br>
 What traces have been left in the arts after the collapse of the Soviet Union? How do the specters of Socialist Realism still fuel the discussions about the past and impact the artistic present of two independent Eastern European countries?
@@ -34,6 +31,10 @@ This conversation will take as a point of departure two artworks that investigat
 **Lada Nakonechna** is an artist and researcher. She was involved in a number of collective projects such as R.E.P. artists group and curatorial union Hudrada, cofounder of ISTM—the Art Workers’ Self-defense Initiative (2011–2013). From 2015 she is co-curator of the educational and scientific programs of the Method Fund, an independent, nonprofit organization aimed at developing contemporary art and culture in Ukraine. In 2022, Nakonechna was a guest lecturer at the University of Fine Arts Hamburg, and in 2023 joined the documenta Institute as a research fellow. She is currently a doctoral candidate at the University of Kassel researching the Modernist and Socialist Realist Artistic Paradigms in Kyiv Art Institute. As an artist she uses institutional critique approaches to investigate the connection of art with the practices of power production. Nakonechna presented her work at numerous exhibitions including solo at the National Art Museum of Ukraine, and group at the Albertinum—Staatlichen Kunstsammlungen Dresden, GfZK Leipzig, Museum of Modern Art Warsaw, Museum of Contemporary Art Zagreb and other. He is the recipient of the Kazimir Malevich Art Award (Kyiv, 2014) and Women in Arts Award (UN Women Ukraine and the Ukrainian Institute Kyiv, 2020).  Her works are in the collections of the Muzeum Sztuki w Łodzi; Philadelphia Museum of Art; Malmö Kunstmuseum among others.
 <br>
 <br>
+<br>
+<br>
+<br>
+This event is realized in the frame of the documenta Institute lecture series [“Global Modernities?”](https://www.documenta-institut.de/en/artikel/global-modernities) as an addition to the lecture on July 15, "The Aesthetics of Communist Modernity. System versus Style," by Magdalena Moskalewicz, 6 pm, Fridericianum, Kassel 
 <br>
 A public lecture series **Global Modernities?** is organized by Kunst und Gesellschaft Fachgebiet University of Kassel and documenta Institute.<br>
 <br>
