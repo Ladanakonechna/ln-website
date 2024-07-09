@@ -14,8 +14,7 @@ NAMU, Kyiv <br>
 
 <br>
 <br>
-![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/some_ex_dv2021-min.png#50)
-![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/dv2021-min.png#50)
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/dv2021-min.png)
 <br><br>
 In the exhibition Disciplined Vision I continue working with the visible as something full of hidden things: gazes, thrills, intentions, motivations, ideas, ideologies.
 <br><br>
@@ -38,6 +37,6 @@ The exhibition invites viewers to use their own experience to detect how images 
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/dv_main_2021-min.png)
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/Disciplined-Vision2.jpeg)
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/perspective_dv2021-min.png)
-
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/some_ex_dv2021-min.png#50)
 
 </section>
