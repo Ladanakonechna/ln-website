@@ -2,7 +2,7 @@
 layout: page
 title: Disciplined vision
 year: 2021
-thumb_url: /assets/images/disciplinovane-bacenna-disciplined-vision/kholostenko_web.jpg
+thumb_url: /assets/images/disciplinovane-bacenna-disciplined-vision/some_ex_dv2021-min.png
 ---
 
 <section markdown="1" class="EN">
@@ -12,6 +12,10 @@ Exhibition <br>
 NAMU, Kyiv <br>
 
 
+<br>
+<br>
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/some_ex_dv2021-min.png#50)
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/dv2021-min.png#50)
 <br><br>
 In the exhibition Disciplined Vision I continue working with the visible as something full of hidden things: gazes, thrills, intentions, motivations, ideas, ideologies.
 <br><br>
@@ -26,26 +30,14 @@ So I too resort to violence in my approaches, but it is directed at artistic and
 The exhibition invites viewers to use their own experience to detect how images are constructed and to discern the matrices and traps in which a person’s consciousness, imagination, and even sensation give way.
 
 
-<br><br>
-Image:
-
-Ye. Kholostenko’s Report (fragment)
-
-Objects (Metall, graphite on paper, photo, ribbon)
-
-2021
-
-
-Created with support of CEC ArtsLink, Open Place.
-
-Technical support: Sergii Sabakar
 </section>
 
 <section markdown="1" class="UKR">
 #### Дисципліноване бачення
 
-![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/Disciplined-Vision1.jpg)
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/dv_main_2021-min.png)
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/Disciplined-Vision2.jpeg)
+![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/perspective_dv2021-min.png)
 
 
 </section>
