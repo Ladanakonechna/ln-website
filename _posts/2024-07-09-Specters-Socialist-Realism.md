@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Specters of Socialist Realism in Contemporary Art. Poland and Ukraine.
+title:  Specters of Socialist Realism in Contemporary Art. Poland and Ukraine
 date:   2024-07-09
 categories: news
 ---
