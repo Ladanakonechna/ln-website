@@ -32,10 +32,14 @@ The exhibition invites viewers to use their own experience to detect how images 
 </section>
 
 <section markdown="1" class="UKR">
+	<br>
 #### Дисципліноване бачення
 Виставка
 <br>
 NAMU-Національний художній музей України
+<br>
+<br>
+<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/dv_main_2021-min.png)
 ![imagetest]({{site.baseurl}}/assets/images/disciplinovane-bacenna-disciplined-vision/Disciplined-Vision2.jpeg)
