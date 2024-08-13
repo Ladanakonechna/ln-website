@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Institutional unclear. Essay on the institutionality of the Contemporary Art in Ukraine.
+title: Institutional unclear______________Інституційне непрояснене
 year: 2019
 ---
 
 <section markdown="1" class="EN">
+Essay on the institutionality of the Contemporary Art in Ukraine. In Ukrainian
 <br>
 </section>
 
 
 <section markdown="1" class="UKR>">
-**Інституційне непрояснене
 <br>
+читати на You Art, Kyiv:
 <br>
 [Частина перша](https://supportyourart.com/columns/instutycii/)
 <br>
