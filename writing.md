@@ -12,7 +12,7 @@ permalink: /writing/
 {% for text in writing %}
   {% if cur_year != text.year %}
     {% assign cur_year = text.year %}
-<br>
+
 ## {{cur_year}}
   {% endif %}
 ##### [{{text.title}}]({{site.baseurl}}{{text.url}})
