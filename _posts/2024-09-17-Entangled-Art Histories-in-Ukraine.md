@@ -6,8 +6,8 @@ categories: news
 ---
 
 <section markdown="1" class="EN">
-edited By Stefaniia Demchuk, Illia Levchenko
-<br>
+edited By Stefaniia Demchuk, Illia Levchenko<br>
+
 Chapter III. Mysteztvoznavstvo’: a Socialist Realist Art History (1937 – 1986)<br>
 **Soviet Ukraine’s Art History Education in a Historical Context (Lada Nakonechna, Olena Godenko-Nakonechna)**
 <br>
