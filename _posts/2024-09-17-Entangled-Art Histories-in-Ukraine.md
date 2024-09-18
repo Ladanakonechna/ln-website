@@ -6,15 +6,15 @@ categories: news
 ---
 
 <section markdown="1" class="EN">
-Book edited By Stefaniia Demchuk, Illia Levchenko <br>
+edited By Stefaniia Demchuk, Illia Levchenko
 <br>
-Chapter III. Mysteztvoznavstvo’: a Socialist Realist Art History (1937 – 1986)
-##Soviet Ukraine’s Art History Education in a Historical Context (Lada Nakonechna, Olena Godenko-Nakonechna)##
+Chapter III. Mysteztvoznavstvo’: a Socialist Realist Art History (1937 – 1986)<br>
+**Soviet Ukraine’s Art History Education in a Historical Context (Lada Nakonechna, Olena Godenko-Nakonechna)**
 <br>
 <br>
 ISBN 9781032708638 <br>
 312 Pages 8 Color & 17 B/W Illustrations <br>
-November 26, 2024 by Routledge
+Copyright 2025, Routledge
 <br>
 <br>
 <br>
