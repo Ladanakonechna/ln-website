@@ -1,25 +1,26 @@
 ---
 layout: post
 title: Modernism in Ukraine. Local Contexts, Intercultural Encounters, Transnational Exchanges. Conference
-date:   2024-05-25
+date:   2024-09-30
 categories: news
 ---
 
 <section markdown="1" class="EN">
 
 
-**Directions of Modernist Pedagogy: The 1920s at the Kyiv Art Institut**
-Presentation by Lada Nakonechna
-<br>
+
 International Two-Day Conference<br>
 The Courtauld Institute of Art
 <br>
 4–5 October 2024
 <br>
 <br>
-Coinciding with the final stop of the touring exhibition In the Eye of the Storm: Modernism in Ukraine, 1900–1930s at the Royal Academy of Arts in London (29 June – 13 October 2024), this international conference will bring together established and emerging scholars for a first-ever discussion dedicated exclusively to Ukraine’s visual culture of the late nineteenth and twentieth centuries to be held outside Ukraine.
 <br>
-Friday 4 October
+Presentation by Lada Nakonechna<br>
+**Directions of Modernist Pedagogy: The 1920s at the Kyiv Art Institut**
+<br>
+on Friday 4 October
+<br>
 <br>
 15.40 – 17.30: Panel II – Modernisms in Ukraine: Continuities, Ruptures, Legacies
 Chaired by Dr Klara Kemp-Welch, The Courtauld 
