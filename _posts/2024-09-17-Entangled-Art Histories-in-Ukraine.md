@@ -12,6 +12,8 @@ Chapter III. Mysteztvoznavstvo’: a Socialist Realist Art History (1937 – 198
 **Soviet Ukraine’s Art History Education in a Historical Context (Lada Nakonechna, Olena Godenko-Nakonechna)**
 <br>
 <br>
+![imagetest]({{site.baseurl}}/assets/images/posts/Entangled_Art_Histories.png#50)<br>
+<br>
 ISBN 9781032708638 <br>
 312 Pages 8 Color & 17 B/W Illustrations <br>
 Copyright 2025, Routledge

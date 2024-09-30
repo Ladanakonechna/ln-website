@@ -10,7 +10,7 @@ Screening and conversation with Magdalena Moskalewicz and Lada Nakonechna <br>
 Tuesday, July 16, 10 – 12 am, at Kunsthochschule Kassel, Seminarraum Room 0223 Atrium
 [>>](https://www.documenta-institut.de/en/artikel/magdalena-moskalewicz-im-gespraech-mit-lada-nakonechna)
 <br>
-![imagetest]({{site.baseurl}}/assets/images/posts/Spectres 2024-min.jpg)
+![imagetest]({{site.baseurl}}/assets/images/posts/Spectres 2024-min.jpg#50)
 <br>
 <br>
 Video works presented:<br>
