@@ -6,15 +6,13 @@ thumb_url: /assets/images/almost-the-same/almost-the-same.jpg
 ---
 
 <section markdown="1" class="EN">
-
 Installation (photography mounted on the wall), 2012 <br>
 “Mystetskyi Arsenal" National Cultural Art and Museum Complex, Kyiv
 <br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/almost-the-same/almost-the-same.jpg#50)
 <br>
-*Exposition photos:<br>
-Kostiantyn Strilets*
+*Exposition photos: Kostiantyn Strilets*
 <br><br>
 
 
