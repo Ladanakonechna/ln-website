@@ -21,7 +21,8 @@ Traveling from museum to museum, the mirrored head looks into collections, revea
 </section>
 
 <section markdown="1" class="UKR">
-
+<br><br>
+<br><br>
 ![imagetest]({{site.baseurl}}/assets/images/travelling-head/travelling-head2.jpeg)
 ![imagetest]({{site.baseurl}}/assets/images/travelling-head/travelling-head4.jpeg)
 
