@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modernism in Ukraine. Local Contexts, Intercultural Encounters, Transnational Exchanges. Conference
-date:   2024-09-30
+date:   2024-10-04
 categories: news
 ---
 
