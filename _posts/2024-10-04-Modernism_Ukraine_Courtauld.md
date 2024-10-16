@@ -35,6 +35,8 @@ Dr Svitlana Biedarieva, Independent Art Historian, Artist and Curator,
 <br>
 
 More info and full program [here](https://courtauld.ac.uk/whats-on/modernism-in-ukraine-local-contexts-intercultural-encounters-transnational-exchanges/)
+Day 1[video](https://youtu.be/-0H4ksUTQTE?si=BMLdjeTaa5QNdE9A)
+Day 2[video](https://youtu.be/mE9DnpdiEG0?si=shGR8KLZSPQtUklx)
 
 </section>
 
