@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Zeichnung. Edee-Geste-Raum. Exhibition in Museum unter Tage. Bochum
-date:   2024-10-15
+date:   2024-11-06
 categories: news
 ---
 
