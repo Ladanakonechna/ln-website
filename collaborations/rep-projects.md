@@ -8,30 +8,37 @@ PAGE IS UNDER CONSTRUCTION
 
 
 ---
-**INTERVENTION** 2005 – 2012
+#INTERVENTION# 2005 – 2012
 
-R.E.P. PARTY 2006 [video >>](https://vimeo.com/17226090) 
+**R.E.P. PARTY 2006** [video >>](https://vimeo.com/17226090) <br>
+**WE WILL R.E.P. YOU!** [video >>](https://vimeo.com/22308743)<br>
+**UNTITLED ACTION** **[>>](https://vimeo.com/16919274)<br>
 R.E.P. GALLERY
 FAST ART
 BROADENING OF MIND
 WEST-EAST
-**WE WILL R.E.P. YOU!** [video >>](https://vimeo.com/22308743)
-**UNTITLED ACTION** **[>>](https://vimeo.com/16919274)
 ---
-**PATRIOTISM** 2006-2015 [See here >>](https://drive.google.com/file/d/1ujIVbVdMbiBNC2Td5o-yEE36UwVrfTrs/view?usp=sharing)
-all*PATRIOTISM. HYMN PATRIOTISM. INDELIBLE TRACKS PATRIOTISM. MUSEUM PATRIOTISM. COMMUNITIES PATRIOTISM. THE LETTERPATRIOTISM. CHECKPOINT PATRIOTISM. ART AS A PRESENTPATRIOTISM. POLICY OF CARE PATRIOTISM (FOR “DECISION MAKER”) PATRIOTISM. VERTICAL, HORIZONTAL PATRIOTISM (FOR “CHTO DELAT?”)PATRIOTISM. TYPES OF COMMUNITY PATRIOTISM. COMMON SPACEPATRIOTISM. DREAMS COME TRUEPATRIOTISM. HORIZONPATRIOTISM. CHOICEPATRIOTISM. THE RESOURCES AND COMMON RESOURCESPATRIOTISM. STATE EMBLEM PATRIOTISM. THE LINEPATRIOTISM. AFTER THE FUTURE – TODAY FOREVER PATRIOTISM. CHRONOLOGYPATRIOTISM. CHRONOLOGY II PATRIOTISM. REVOLUTIONARY MOMENTPATRIOTISM. UKRAINIAN ART SINCE INDEPENDENCEPATRIOTISM. IMAGE OF AN ENEMY PATRIOTISM. TRICKPATRIOTISM. ON METHOD PATRIOTISM. FENCEPATRIOTISM. INTERNAL UNITY REQUIRES AN OUTSIDE ENEMY PATRIOTISM. IMPARTING KNOWLEDGE PATRIOTISM. SHORT-TERM HOLIDAY PATRIOTISM. HERFORD STORY PATRIOTISM. WAITING SLOGANS PATRIOTISM. SUN OF THE POOR 
-**PATRIOTISM. THE PARADE OF HEROES**
+
+![imagetest]({{site.baseurl}}/assets/images/rep/partiotism.png#50)<br>
+
+*Patriotism. Policy of care “Alphabetical order”, Index – the Swedish Foundation of Contemporary Art, Stockholm, Sweden, 2008*
+
+**PATRIOTISM** 2006-2015 [See here >>](https://drive.google.com/file/d/1ujIVbVdMbiBNC2Td5o-yEE36UwVrfTrs/view?usp=sharing)<br>
+
+all PATRIOTISM. HYMN PATRIOTISM. INDELIBLE TRACKS PATRIOTISM. MUSEUM PATRIOTISM. COMMUNITIES PATRIOTISM. THE LETTERPATRIOTISM. CHECKPOINT PATRIOTISM. ART AS A PRESENTPATRIOTISM. POLICY OF CARE PATRIOTISM (FOR “DECISION MAKER”) PATRIOTISM. VERTICAL, HORIZONTAL PATRIOTISM (FOR “CHTO DELAT?”)PATRIOTISM. TYPES OF COMMUNITY PATRIOTISM. COMMON SPACEPATRIOTISM. DREAMS COME TRUEPATRIOTISM. HORIZONPATRIOTISM. CHOICEPATRIOTISM. THE RESOURCES AND COMMON RESOURCESPATRIOTISM. STATE EMBLEM PATRIOTISM. THE LINEPATRIOTISM. AFTER THE FUTURE – TODAY FOREVER PATRIOTISM. CHRONOLOGYPATRIOTISM. CHRONOLOGY II PATRIOTISM. REVOLUTIONARY MOMENTPATRIOTISM. UKRAINIAN ART SINCE INDEPENDENCEPATRIOTISM. IMAGE OF AN ENEMY PATRIOTISM. TRICKPATRIOTISM. ON METHOD PATRIOTISM. FENCEPATRIOTISM. INTERNAL UNITY REQUIRES AN OUTSIDE ENEMY PATRIOTISM. IMPARTING KNOWLEDGE PATRIOTISM. SHORT-TERM HOLIDAY PATRIOTISM. HERFORD STORY PATRIOTISM. WAITING SLOGANS PATRIOTISM. SUN OF THE POOR 
+PATRIOTISM. THE PARADE OF HEROES
 
 
 
 **MEDIATORS** 2006 – 2008
 
-LIRNYK *2006,**Performance, Kyiv, Ukraine*[>>](https://vimeo.com/27596046)*video**documentation 12’45”*ASHUG *2008, Performance, Gyumri , Armenia, video documentation - 11’44”***AKYN** *2009,**Performance, Almaty , Kazahstan, video documentation -  5’53”*YODLER *2011, Performance, Schwaz , Austria, video documentation - 27’08”**Produced by Stadtgalerie Schwaz music, vocal: Barbara Camenzind and Markus
-Kluibenschädl
-curator: Anna Artaker
-audio/video documentation: Johannes* 
+**LIRNYK** 2006,Performance, Kyiv, Ukraine [Video >>](https://vimeo.com/27596046) video documentation 12’45”
+**ASHUG** 2008, Performance, Gyumri , Armenia, video documentation - 11’44”
+**AKYN** 2009, Performance, Almaty , Kazahstan, video documentation - 5’53”
+**YODLER**2011, Performance, Schwaz , Austria, video documentation - 27’08” Produced by Stadtgalerie Schwaz, music, vocal: Barbara Camenzind and Markus Kluibenschädl
 
-*Felder*TRESENE *2011, Performance, Plovdiv, Bulgaria, video documentation - 06’21”**Produced by Art Today Association, PlovdivPerformer: Sonya Ankova GeorgievaLyrics: Diana BotevaCamera: Emil MirazchievProduction: Jakob Racek***PESNIAR** *2011,**Performance,**Białystok**, Poland, video documentation - 27’06”**Produced by**Arsenal gallery, Białystok, Poland*MUSICIANS *2012, First Kyiv Biennale, Ukraine*
+
+*Felder*TRESENE *2011, Performance, Plovdiv, Bulgaria, video documentation - 06’21”**Produced by Art Today Association, PlovdivPerformer: Sonya Ankova GeorgievaLyrics: Diana BotevaCamera: Emil MirazchievProduction: Jakob Racek **PESNIAR** *2011,**Performance,**Białystok**, Poland, video documentation - 27’06”**Produced by**Arsenal gallery, Białystok, Poland*MUSICIANS *2012, First Kyiv Biennale, Ukraine*
 ---
 
 
