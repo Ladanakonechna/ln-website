@@ -10,18 +10,27 @@ PAGE IS UNDER CONSTRUCTION
 ---
 ## INTERVENTION 2005 – 2012
 
-**R.E.P. PARTY 2006** [video >>](https://vimeo.com/17226090) <br>
+**R.E.P. PARTY** [video >>](https://vimeo.com/17226090) <br>
 **WE WILL R.E.P. YOU!** [video >>](https://vimeo.com/22308743)<br>
 **UNTITLED ACTION** [video >>](https://vimeo.com/16919274)<br>
 **R.E.P. GALLERY**<br>
 **FAST ART**<br>
 **BROADENING OF MIND**<br>
 **WEST-EAST**<br>
+
+---
+## SMUGGLING 2007 <br>
+[Video >>](https://vimeo.com/27124736)
+
+---
+## SUPERPROPOSITION 2008 <br>
+[Video >>](https://vimeo.com/33344893)
+
 ---
 <br>
 <br>
 
-## PATRIOTISM 2006-2015 <br>
+## PATRIOTISM 2006-2016 <br>
 
 ![imagetest]({{site.baseurl}}/assets/images/rep/partiotism.png#50)<br>
 
@@ -35,8 +44,8 @@ all PATRIOTISM. HYMN PATRIOTISM. INDELIBLE TRACKS PATRIOTISM. MUSEUM PATRIOTI
 PATRIOTISM. THE PARADE OF HEROES
 
 
-
-**MEDIATORS** 2006 – 2008
+---
+## MEDIATORS 2006 – 2008
 
 **LIRNYK** 2006,Performance, Kyiv, Ukraine [Video >>](https://vimeo.com/27596046) video documentation 12’45”
 **ASHUG** 2008, Performance, Gyumri , Armenia, video documentation - 11’44”
@@ -44,7 +53,8 @@ PATRIOTISM. THE PARADE OF HEROES
 **YODLER**2011, Performance, Schwaz , Austria, video documentation - 27’08” Produced by Stadtgalerie Schwaz, music, vocal: Barbara Camenzind and Markus Kluibenschädl
 
 
-*Felder*TRESENE *2011, Performance, Plovdiv, Bulgaria, video documentation - 06’21”**Produced by Art Today Association, PlovdivPerformer: Sonya Ankova GeorgievaLyrics: Diana BotevaCamera: Emil MirazchievProduction: Jakob Racek **PESNIAR** *2011,**Performance,**Białystok**, Poland, video documentation - 27’06”**Produced by**Arsenal gallery, Białystok, Poland*MUSICIANS *2012, First Kyiv Biennale, Ukraine*
+*Felder *TRESENE* 2011, Performance, Plovdiv, Bulgaria, video documentation - 06’21”**Produced by Art Today Association, PlovdivPerformer: Sonya Ankova GeorgievaLyrics: Diana BotevaCamera: Emil MirazchievProduction: Jakob Racek **PESNIAR** *2011,**Performance,**Białystok**, Poland, video documentation - 27’06”**Produced by**Arsenal gallery, Białystok, Poland 
+**MUSICIANS** 2012, First Kyiv Biennale, Ukraine
 ---
 
 
@@ -63,9 +73,7 @@ HEADQUARTERS **Communities project COMMUNITIES PROJECT***2007,**Center for Cont
 ---
 WE ARE UKRAINIANS. WHAT ELSE MATTERS?
 ---
-**SMUGGLING** 2007 [Video >>](https://vimeo.com/27124736)
----
-**SUPERPROPOSITION** 2008 [Video >>](https://vimeo.com/33344893)
+
 ---
 
 MOTHERLAND SHOP *2007, In collaboration with Mark Titchner, Ukrainian pavilion in the 52 Venice Biennale, Venice, Italy*
