@@ -13,21 +13,21 @@ PAGE IS UNDER CONSTRUCTION
 **R.E.P. PARTY 2006** [video >>](https://vimeo.com/17226090) <br>
 **WE WILL R.E.P. YOU!** [video >>](https://vimeo.com/22308743)<br>
 **UNTITLED ACTION** [video >>](https://vimeo.com/16919274)<br>
-R.E.P. GALLERY<br>
-FAST ART<br>
-BROADENING OF MIND<br>
-WEST-EAST<br>
+**R.E.P. GALLERY**<br>
+**FAST ART**<br>
+**BROADENING OF MIND**<br>
+**WEST-EAST**<br>
 ---
 <br>
 <br>
 
-## PATRIOTISM <br>
+## PATRIOTISM 2006-2015 <br>
 
 ![imagetest]({{site.baseurl}}/assets/images/rep/partiotism.png#50)<br>
 
 *Patriotism. Policy of care “Alphabetical order”, Index – the Swedish Foundation of Contemporary Art, Stockholm, Sweden, 2008*
 
-**PATRIOTISM** 2006-2015 [See here >>](https://drive.google.com/file/d/1ujIVbVdMbiBNC2Td5o-yEE36UwVrfTrs/view?usp=sharing)<br>
+**PATRIOTISM** [project see here >>](https://drive.google.com/file/d/1ujIVbVdMbiBNC2Td5o-yEE36UwVrfTrs/view?usp=sharing)<br>
 
 Dictionary [is here >>](https://drive.google.com/file/d/1-oGoh2yaeVNHuNh4wSdjZvWJFLl4sjkK/view?usp=sharing)
 
