@@ -13,11 +13,14 @@ PAGE IS UNDER CONSTRUCTION
 **R.E.P. PARTY 2006** [video >>](https://vimeo.com/17226090) <br>
 **WE WILL R.E.P. YOU!** [video >>](https://vimeo.com/22308743)<br>
 **UNTITLED ACTION** [video >>](https://vimeo.com/16919274)<br>
-R.E.P. GALLERY
-FAST ART
-BROADENING OF MIND
-WEST-EAST
+R.E.P. GALLERY<br>
+FAST ART<br>
+BROADENING OF MIND<br>
+WEST-EAST<br>
 ---
+<br>
+<br>
+# PATRIOTISM #<br>
 
 ![imagetest]({{site.baseurl}}/assets/images/rep/partiotism.png#50)<br>
 
