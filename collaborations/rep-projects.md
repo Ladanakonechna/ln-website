@@ -60,13 +60,10 @@ PRESENTATION OF KYIV ART ACADEMY ANDNATIONAL UNION OF ARTISTS OF UKRAINE, 2008, 
 ---
 ## WE ARE UKRAINIANS. WHAT ELSE MATTERS? <br>
 In collaboration with Mark Titchner, Ukrainian pavilion in the 52 Venice Biennale, Venice, Italy
----
 
 ---
 
 ## MOTHERLAND SHOP 2007<br>
-
-
 
 ---
 ## UKRAINIAN LAND 2010 <br>
@@ -136,13 +133,13 @@ HEADQUARTERS **Communities project COMMUNITIES PROJECT***2007,**Center for Cont
 <section markdown="1" class="UKR">
 ![imagetest]({{site.baseurl}}/assets/images/rep/intervention1.png#50)<br>
 *Intervention. We Will R.E.P. You, action, Kyiv, Ukraine, 2005*<br>
-
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/rep/intervention3.png#50)<br>
 *Intervention. Untitled Action, action, Kyiv, Ukraine, 2005*<br>
-
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/rep/intervention2.png#50)<br>
 *Intervention. R.E.P. Party, action, Kyiv, Ukraine, 2006*<br>
-
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/rep/intervention5.png#50)<br>
 *Intervention. R.E.P. Gallery, action, Kyiv, Ukraine, 2006*
 <br>
@@ -157,6 +154,7 @@ HEADQUARTERS **Communities project COMMUNITIES PROJECT***2007,**Center for Cont
 
 ![imagetest]({{site.baseurl}}/assets/images/rep/eurorenovation2.png#50)<br>
 *Eurorenovation. Cut, Installation, PinchukArtCentre, 2012*<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/rep/eurorenovation3.png#50)<br>
 *Eurorenovation. Column for the Museum, Installation, Museum Complex "Mystetskyi Arsenal," 2011*
 <br>
@@ -164,5 +162,6 @@ HEADQUARTERS **Communities project COMMUNITIES PROJECT***2007,**Center for Cont
 <br>
 
 ![imagetest]({{site.baseurl}}/assets/images/rep/academy.png#50)<br>
-*R.E.P. - Correcpondent. Art Academy, video, 2006*
+*R.E.P. - Correcpondent. Art Academy, video, 2006* <br>
+
 </section>
