@@ -10,9 +10,6 @@ PAGE IS UNDER CONSTRUCTION
 ---
 ## INTERVENTION 2005 – 2012
 
-![imagetest]({{site.baseurl}}/assets/images/rep/intervention1.png#50)<br>
-![imagetest]({{site.baseurl}}/assets/images/rep/intervention3.png#50)<br>
-
 
 **WE WILL R.E.P. YOU!** [video >>](https://vimeo.com/22308743)<br>
 **UNTITLED ACTION** [video >>](https://vimeo.com/16919274)<br>
@@ -35,10 +32,6 @@ PAGE IS UNDER CONSTRUCTION
 <br>
 
 ## PATRIOTISM 2006-2016 <br>
-
-![imagetest]({{site.baseurl}}/assets/images/rep/partiotism.png#50)<br>
-
-*Patriotism. Policy of care “Alphabetical order”, Index – the Swedish Foundation of Contemporary Art, Stockholm, Sweden, 2008*
 
 **PATRIOTISM** [project see here >>](https://drive.google.com/file/d/1ujIVbVdMbiBNC2Td5o-yEE36UwVrfTrs/view?usp=sharing)<br>
 
@@ -126,4 +119,36 @@ OPEN LABORATORY*2005,Residence in Centre for Contemporary Art at NaUKMA, Kyiv, U
 </section>
 
 <section markdown="1" class="UKR">
+
+![imagetest]({{site.baseurl}}/assets/images/rep/intervention1.png#50)<br>
+*Intervention. We Will R.E.P. You, action in the public space, Kyiv, Ukraine, 2005*<br>
+
+![imagetest]({{site.baseurl}}/assets/images/rep/intervention3.png#50)<br>
+*Intervention. Untitled Action, action in the public space, Kyiv, Ukraine, 2005*<br>
+
+![imagetest]({{site.baseurl}}/assets/images/rep/intervention2.png#50)<br>
+*Intervention. R.E.P. Party, action in the public space, Kyiv, Ukraine, 2006*<br>
+
+![imagetest]({{site.baseurl}}/assets/images/rep/intervention5.png#50)<br>
+*Intervention. R.E.P. Gallery, action in the public space, Kyiv, Ukraine, 2006*
+<br>
+<br>
+<br>
+![imagetest]({{site.baseurl}}/assets/images/rep/partiotism.png#50)<br>
+
+*Patriotism. Policy of care “Alphabetical order”, Index – the Swedish Foundation of Contemporary Art, Stockholm, Sweden, 2008*
+<br>
+<br>
+<br>
+
+![imagetest]({{site.baseurl}}/assets/images/rep/eurorenovation2.png#50)<br>
+*Eurorenovation. Cut, Installation, PinchukArtCentre, 2012*<br>
+![imagetest]({{site.baseurl}}/assets/images/rep/eurorenovation3.png#50)<br>
+*Eurorenovation. Column for the Museum, Installation, Museum Complex "Mystetskyi Arsenal," 2011*
+<br>
+<br>
+<br>
+
+![imagetest]({{site.baseurl}}/assets/images/rep/academy.png#50)<br>
+*R.E.P. Interview. Academy, video, 2006*
 </section>
