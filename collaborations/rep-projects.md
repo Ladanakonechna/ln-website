@@ -38,22 +38,24 @@ Dictionary [is here >>](https://drive.google.com/file/d/1-oGoh2yaeVNHuNh4wSdjZvW
 ---
 ## MEDIATORS 2006 – 2008 <br>
 
-**LIRNYK** 2006,Performance, Kyiv, Ukraine [Video >>](https://vimeo.com/27596046) video documentation 12’45”<br>
+**LIRNYK** 2006,Performance, Kyiv, Ukraine, video documentation 12’45” [see here >>](https://vimeo.com/27596046)<br>
 **ASHUG** 2008, Performance, Gyumri , Armenia, video documentation - 11’44”<br>
 **AKYN** 2009, Performance, Almaty , Kazahstan, video documentation - 5’53”<br>
-**YODLER**2011, Performance, Schwaz , Austria, video documentation - 27’08” Produced by Stadtgalerie Schwaz, music, vocal: Barbara Camenzind and Markus Kluibenschädl<br>
+**YODLER** 2011, Performance, Schwaz , Austria, video documentation - 27’08” Produced by Stadtgalerie Schwaz, music, vocal: Barbara Camenzind and Markus Kluibenschädl<br>
 **TRESENE** 2011, Performance, Plovdiv, Bulgaria, video documentation - 06’21” Produced by Art Today Association, PlovdivPerformer: Sonya Ankova GeorgievaLyrics: Diana BotevaCamera: Emil MirazchievProduction: Jakob Racek <br>
-**PESNIAR** 2011,**Performance, Białystok, Poland, video documentation - 27’06” Produced by Arsenal gallery, Białystok, Poland <br>
+**PESNIAR** 2011,Performance, Białystok, Poland, video documentation - 27’06” Produced by Arsenal gallery, Białystok, Poland <br>
 **MUSICIANS** 2012, First Kyiv Biennale, Ukraine<br>
 
 
 ---
-PRESENTATION OF UKRAINIAN OFFICIAL CULTURE
-**R.E.P. – CORRESPONDENT. ART ACADEMY** 2006 [Video >>](https://vimeo.com/308190840)duration – 40’72” With support of Institution of Unstable Thoughts, Kyiv, Ukraine/ Munich, Germany. Special thanks to: Lesja Z.
+## PRESENTATION OF UKRAINIAN OFFICIAL CULTURE <br>
+**R.E.P. – CORRESPONDENT. ART ACADEMY** 2006 [Video >>](https://vimeo.com/308190840), duration – 40’72.” With support of Institution of Unstable Thoughts, Kyiv, Ukraine/ Munich, Germany. Special thanks to: Lesja Z.
 
-PRESENTATION OF KYIV ART ACADEMY IN VIENNA ART
-ACADEMY 2006, performance, Akademie der bildenden Künste Wien, Post Conceptual Study Program, Austria*R.E.P. – CORRESPONDENT. ARTISTS’ UNION**PRESENTATION OF NATIONAL UNION OF ARTISTS OF UKRAINE IN GALLERY OF ESTONIAN ARTISTS’ UNION** *2006, performance,*Tallinn, Estonia
-PRESENTATION OF KYIV ART ACADEMY ANDNATIONAL UNION OF ARTISTS OF UKRAINE *2008, performance, Centre for Contemporary art Zamek Ujazdowski, Warsaw, Poland*
+PRESENTATION OF KYIV ART ACADEMY IN VIENNA ART ACADEMY 2006, performance, Akademie der bildenden Künste Wien, Post Conceptual Study Program, Austria<br>
+
+**R.E.P. – CORRESPONDENT. ARTISTS’ UNION**
+PRESENTATION OF NATIONAL UNION OF ARTISTS OF UKRAINE IN GALLERY OF ESTONIAN ARTISTS’ UNION, 2006, performance, Tallinn, Estonia<br>
+PRESENTATION OF KYIV ART ACADEMY ANDNATIONAL UNION OF ARTISTS OF UKRAINE, 2008, performance, Centre for Contemporary art Zamek Ujazdowski, Warsaw, Poland<br>
 
 ---
 ## WE ARE UKRAINIANS. WHAT ELSE MATTERS? <br>
