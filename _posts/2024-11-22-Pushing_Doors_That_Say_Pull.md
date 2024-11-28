@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pushing Doors That Say ‘Pull.’ Group exhibition
+title:  Pushing Doors That Say ‘Pull.’ Group exhibition, Poznań
 date:   2024-11-22
 categories: news
 ---

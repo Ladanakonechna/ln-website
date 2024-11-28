@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Walldrawing "Trap" at the cover of the catalog on developments in drawing since early Modernism. KERBER publishing house
+title:  Walldrawing "Trap" on the cover of the catalog on developments in drawing since early Modernism. KERBER Verlag, DE
 date:   2024-11-27
 categories: news
 ---
