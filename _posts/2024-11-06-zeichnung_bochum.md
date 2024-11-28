@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Zeichnung. Edee-Geste-Raum. Exhibition in Museum unter Tage. Bochum
+title:  Zeichnung. Edee-Geste-Raum. Group exhibition in Museum unter Tage, Bochum
 date:   2024-11-06
 categories: news
 ---
@@ -15,10 +15,11 @@ Opening
 Wednesday, November 6, 2024, 6 p.m.
 <br>
 <br>
-![imagetest]({{site.baseurl}}/assets/images/posts/zeichnen_Bochum.png#50)<br>
+![imagetest]({{site.baseurl}}/assets/images/posts/trap_bochum.png#50)<br>
 <br>
 <br>
 <br>
+The exhibition and publication highlight the most significant developments in drawing since early Modernism.
 <br>
 Artists:
 <br>
