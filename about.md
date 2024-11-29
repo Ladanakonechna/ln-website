@@ -16,7 +16,7 @@ Lada Nakonechna presented her work at numerous exhibitions including solo at the
 She is laureate of Malevich Award-2014 in Kyiv and PinchukArtCentre Special Prize, 2013.
 In 2011 in Leipzig she realized project in public space - the wall drawing in the University Library "Albertina".
 
-Works in public collections: Muzeum Sztuki w Łodzi, Philadelphia Museum of Art, Deutsche Bank Collection, Art Collection Telekom, Arsenal Gallery in Białystok, Malmö Kunstmuseum, National Art Museum of Ukraine, Arsenal Municipal Gallery in Poznań, and of the R.E.P. group at Le Centre Pompidou, Kontact Collection in Vienna, Arsenal Gallery in Lublin among others.
+Works in public collections: Muzeum Sztuki w Łodzi, Philadelphia Museum of Art, Deutsche Bank Collection, Art Collection Telekom, Arsenal Gallery in Białystok, Malmö Kunstmuseum, National Art Museum of Ukraine, Arsenal Municipal Gallery in Poznań, and of the R.E.P. group at Le Centre Pompidou, Kontact Collection in Vienna, Labirynt Gallery in Lublin among others.
 
 
 Represented by [Galerie Eigen+Art](https://eigen-art.com/)
