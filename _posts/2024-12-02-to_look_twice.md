@@ -8,15 +8,16 @@ categories: news
 <section markdown="1" class="EN">
 
 <br>
-Lada Nakonechna, artists talk
-14.12.2024, 18:00<br>
-<br>
+Lada Nakonechna, artists talk<br>
 Introduction: Anna Łazar<br>
 Organisation: Dr Hab. Luiza Nader<br>
 <br>
-
-WBASK,  Wybrzeże Kościuszkowskie 37/39, Warsaw, Poland<br>
+<br>
+14.12.2024, 18:00<br>
+<br>
+Wybrzeże Kościuszkowskie 37/39, Warsaw, Poland<br>
 Room 1.01 (I floor)<br>
+Faculty of Artistic Research and Curatorial Studies<br>
 The Academy of Fine Arts in Warsaw, Poland
 [>>](https://wbask.asp.waw.pl/lada-nakonechna-artists-talk-to-look-twice/)
 <br>
