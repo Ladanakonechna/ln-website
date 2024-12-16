@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  To look twice. Artists talk at The Academy of Fine Arts in Warsaw
-date:   2024-12-02
+date:   2024-12-14
 categories: news
 ---
 
