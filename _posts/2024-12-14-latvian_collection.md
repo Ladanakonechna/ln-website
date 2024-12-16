@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Latvian Collection of Malmö. Exhibition in Latvian National Museum of Art
-date:   2024-10-14
+date:   2024-12-14
 categories: news
 ---
 
