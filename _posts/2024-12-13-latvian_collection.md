@@ -34,7 +34,8 @@ Makda Embaie, Ieva Epnere, Santiago Mostyn & Susanna Jablonski, Ieva Kraule-Kūn
 [More info](https://www.lnmm.lv/en/latvian-national-museum-of-art/exhibitions/the-latvian-collection-of-malm-512)
 <br>
 
-
+Discussion of Lada Nakonechna with Inga Lāce and Lotte Løvholm **Artwork as Historical Evidence**
+[Read here](https://docs.google.com/document/d/1kqIE-fgM7nkpShhViYfCi5V7Kf_rrS8wrU-v5kJWStQ/edit?usp=sharing)
 
 </section>
 
