@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  R.E.P. History. Exhibition at the National Art Museum of Ukraine
-date:   2024-12-11
+date:   2024-12-19
 categories: news
 ---
 
