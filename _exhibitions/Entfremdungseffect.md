@@ -2,7 +2,7 @@
 layout: page
 title: Entfremdungseffect
 year: 2012
-thumb_url: /assets/images/entfremdungseffekt/6_entfremdungseffekt.jpg
+thumb_url: /assets/images/entfremdungseffekt/6entfremdungseffekt.jpg
 ---
 
 <section markdown="1" class="EN">
@@ -11,15 +11,13 @@ Galerie EIGEN + ART LAB, Berlin <br>
 15.11.2012 – 02.02.2013<br>
 Opening: November 15, 2012, 5 – 9 pm <br>
 
-![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/6_entfremdungseffekt.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/6entfremdungseffekt.jpg#50)
 
 
 [Publication here](https://drive.google.com/file/d/1pgFTgjvD-tMV4j8XWj_WDpTgZWpI6dWS/view?usp=sharing)
 <br><br>
 
-![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/1_entfremdungseffekt.png) 
-![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/2_entfremdungseffekt.png) 
-![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/3_entfremdungseffekt.png) 
+
 <br><br>
 <br>
 *“To alienate an incident or a character means to take from
@@ -30,7 +28,7 @@ understandable, so as to create wonderment and curiosity.”*
 It is one single word that underlies and connects the most recent works
 by Ukrainian artist Lada Nakonechna: estrangement, or *Verfremdung*
 in German. At first glimpse, her large-format pencil drawings *Constructing
-the new landscape* ( 2012) as well as the associated video work in
+the new landscape* (2012) as well as the associated video work in
 the first room of the exhibition show landscape scenes and cloudy
 skies, harmonic and overwhelming, following the tradition of 19 thcentury
 Romanticism, but at the same time, an approaching break in
@@ -56,7 +54,7 @@ the world by showing its subjects in an estranged and alienated way.
 Later, the term estrangement was also used by Brecht in German, and
 was then misleadingly translated back into the Russian language with
 alienation. In Ukrainian and Russian, there is only one translation
-for the German words *Verfremdung* (estrangement ) and Entfremdung
+for the German words *Verfremdung* (estrangement) and Entfremdung
 (alienation). Linguistic errors when translating German writers, like
 Bertolt Brecht or Karl Marx, who crucially introduced the term Entfremdung
 in the context of his critique of capitalism, are therefore guaranteed.
@@ -111,7 +109,18 @@ Leonie Pfennig
 </section>
 
 <section markdown="1" class="UKR">
+![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/1_entfremdungseffekt.png) 
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/4_entfremdungseffekt.png) 
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/5_entfremdungseffekt.JPG) 
+*Appropriated phrases, 2012*
+<br>
+
+![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/3_entfremdungseffekt.jpg) 
+*Incomplete, 2012*
+![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/2_entfremdungseffekt.jpg) 
+![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/7_entfremdungseffekt.jpg) 
+*Constructing the new landscape, 2012*<br>
+
+[Series Constructing the new landscape is here](https://drive.google.com/file/d/1pgFTgjvD-tMV4j8XWj_WDpTgZWpI6dWS/view?usp=sharing)
 
 </section>
