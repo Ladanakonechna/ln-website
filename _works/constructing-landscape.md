@@ -30,7 +30,6 @@ State-of-things-©Ines-Morin-Elias.jpg#50)
 <br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing_landscape4.jpg)
-![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing_landscape1.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing_landscape2.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing_landscape3.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing_landscape5.jpg)
@@ -39,6 +38,6 @@ State-of-things-©Ines-Morin-Elias.jpg#50)
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing_landscape8.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing_landscape9.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing_landscape10.jpg)
-![imagetest]({{site.baseurl}}/assets/images/constructing-landscape/Constructing_landscape11.jpg)
+
 
 </section>
