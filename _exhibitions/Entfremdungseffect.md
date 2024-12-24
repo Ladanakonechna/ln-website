@@ -11,8 +11,6 @@ Galerie EIGEN + ART LAB, Berlin <br>
 15.11.2012 – 02.02.2013<br>
 Opening: November 15, 2012, 5 – 9 pm <br>
 
-![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/6entfremdungseffekt.jpg#50)
-
 
 [Publication here](https://drive.google.com/file/d/1pgFTgjvD-tMV4j8XWj_WDpTgZWpI6dWS/view?usp=sharing)
 <br><br>
@@ -116,7 +114,7 @@ Leonie Pfennig
 <br>
 
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/3_entfremdungseffekt.jpg) 
-*Incomplete, 2012*<br>
+*Incomplete, 2012*<br><br>
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/2_entfremdungseffekt.jpg) 
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/7_entfremdungseffekt.jpg) 
 *Constructing the new landscape, 2012*<br>
