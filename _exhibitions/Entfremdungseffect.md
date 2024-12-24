@@ -110,17 +110,17 @@ Leonie Pfennig
 
 <section markdown="1" class="UKR">
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/1_entfremdungseffekt.png) 
-![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/4_entfremdungseffekt.png) 
+![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/4entfremdungseffekt.png) 
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/5_entfremdungseffekt.JPG) 
-*Appropriated phrases, 2012*
+*Appropriated phrases, 2012*<br>
 <br>
 
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/3_entfremdungseffekt.jpg) 
-*Incomplete, 2012*
+*Incomplete, 2012*<br>
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/2_entfremdungseffekt.jpg) 
 ![imagetest]({{site.baseurl}}/assets/images/entfremdungseffekt/7_entfremdungseffekt.jpg) 
 *Constructing the new landscape, 2012*<br>
 
-[Series Constructing the new landscape is here](https://drive.google.com/file/d/1pgFTgjvD-tMV4j8XWj_WDpTgZWpI6dWS/view?usp=sharing)
+[Series Constructing the new landscape is here](https://ladanakonechna.com/works/constructing-landscape)
 
 </section>
