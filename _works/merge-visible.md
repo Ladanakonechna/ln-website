@@ -12,7 +12,7 @@ Photo, cut out, pencil, from 2016
 ![imagetest]({{site.baseurl}}/assets/images/merge-visible/merge 7.jpg#50)
 <br>
 The works from the series „Merge visible“ are based on pictures
-of destroyed buildings and wreckage from the daily news, produced as a photo and then cut out and drawn over by Lada Nakonechna, attempting to revert them back to some kind of rational form. In this way the artist tries to recreate a structure, a new composition and sets a new focus for the viewer.
+of destroyed buildings and wreckage from the daily news showing the  War in Ukraine caused by Russia. They produced as a photo and then cut out and drawn over by Lada Nakonechna, attempting to revert them back to some kind of rational form. In this way the artist tries to recreate a structure, a new composition and sets a new focus for the viewer.
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/merge-visible/merge 10.jpg)
 <br>
