@@ -15,6 +15,14 @@ e-mail: <revolutionaryexperimentalspace@gmail.com> <br>
 [R.E.P. Projects]({{ site.baseurl }}{% link collaborations/rep-projects.md %})<br>
 
 [R.E.P.-Revolutionary Experimental Space, publication, The Green Box, Berlin 2015](https://www.thegreenbox.net/en/books/rep-revolutionary-experimental-space) 
+
+<br>
+About:<br>
+Interview
+[R.E.P. Group in Conversation with Larissa Babij](https://artmargins.com/rep-group-conversation-larissa-babij/)
+<br>
+In Ukrainian:<br>
+["За мистецтво пасть порвьом!", або Як художники змінили українське мистецтво 20 років тому: 5 фактів про групу "Р.Е.П." Суспільне Культура](https://suspilne.media/culture/905817-za-mistectvo-past-porvom-abo-ak-hudozniki-zminili-ukrainske-mistectvo-20-rokiv-tomu-5-faktiv-pro-grupu-rep/)
 </section>
 
 
