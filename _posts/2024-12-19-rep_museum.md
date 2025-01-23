@@ -13,13 +13,19 @@ Opening 19.12.1014 at 18.00<br>
 National Art Museum of Ukraine, Kyiv<br>
 
 ![imagetest]({{site.baseurl}}/assets/images/posts/rep_museum.png#50)<br>
-
-
-
 <br>
 
+R.E.P. group’s members are Ksenia Hnylytska, Nikita Kadan, Lesia Khomenko, Volodymyr Kuznetsov, Zhanna Kadyrova, Lada Nakonechna.
 <br>
+Curators: Anna Aliyeva, Tetiana Zhmurko, Daryna Yakymova (NAMU), Anna Łazar (Poland)
 <br>
+Architecture and Exhibition Design: Oleksandr Burlaka 
+<br>
+Special thanks: Ilona Demchenko
+
+
+
+
 <br>
 
 
@@ -31,7 +37,7 @@ National Art Museum of Ukraine, Kyiv<br>
 
 
 <section markdown="1" class="UKR">
-Р.Е.П. Історія<br>
+Р.Е.П. Історія. — ретроспектива до 20-річчя групи Р.Е.П. <br>
 Виставка<br>
 
 Відкриття: 19 грудня о 18:00.<br>
@@ -52,5 +58,5 @@ NAMU продовжує знайомити глядачів з визначни�
 <br>
 <br>
 *Виставковий проєкт організовано у співпраці з Фондом ім. Гайнріха Бьолля, Бюро Київ — Україна».*<br>
-*Виставку «Р.Е.П. Історія. До 20-річчя групи Революційний Експериментальний Простір» підтримує Європейський Союз за програмою House of Europe, а також Pirus Family Foundation.*
+*При підтримці Європейський Союз за програмою House of Europe, а також Pirus Family Foundation.*
 </section>
