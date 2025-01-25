@@ -108,7 +108,9 @@ Revolutionary moments, Center for Contemporary Art at NaUKMA, Kyiv
 
 ---
 
-## THE CHOSEN 2016
+## THE CHOSEN 2016 (2024)
+[Video >>](https://youtu.be/1culnSp7Ej4?si=X7BCIX0M6ZNWXoHq)
+
 ---
 
 ## ON METHOD. A NON-HISTORY LESSON 2016
