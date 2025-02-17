@@ -26,7 +26,7 @@ on Friday 4 October
 Chaired by Dr Klara Kemp-Welch, The Courtauld 
 <br>
 <br>
-Lada Nakonechna, documenta Institute and University of Kassel,
+Lada Nakonechna, documenta Institut and University of Kassel,
 ‘Directions of Modernist Pedagogy: The 1920s at the Kyiv Art Institut’.<br>
 Polina Baitsym, Central European University, Budapest/Vienna,
 ‘Suspensions in Island Time: ARWM and the Nenets’ Encounters on the Arctic Circle’.<br>
