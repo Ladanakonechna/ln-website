@@ -75,6 +75,7 @@ img[src*="#30"] {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-column-gap: 80px;
+    align-items: start;
 }
 
 
