@@ -17,7 +17,11 @@ e-mail: <revolutionaryexperimentalspace@gmail.com> <br>
 [R.E.P.-Revolutionary Experimental Space, publication, The Green Box, Berlin 2015](https://www.thegreenbox.net/en/books/rep-revolutionary-experimental-space) 
 
 <br>
-About:<br>
+<br>
+<br>
+<br>
+<br>
+Articles about R.E.P.:<br>
 In English<br>
 Interview
 [R.E.P. Group in Conversation with Larissa Babij](https://artmargins.com/rep-group-conversation-larissa-babij/)
