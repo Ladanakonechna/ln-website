@@ -19,7 +19,7 @@ permalink: /writing-about/
 <br><br>
 ## 2018
 <a href="https://conifer.rhizome.org/LadaNakonechna/reviews-interviews-texts/20190730180019/http://prostory.net.ua/en/9-publikatsii/krytyka/335-to-detail-darkness">EN/ "To detail darkness"— Carolin Krahl about the exhibition Background Mode at Eigen+Art Gallery, Leipzig</a>
-<br><br>
+<br>
 <a href="https://conifer.rhizome.org/LadaNakonechna/reviews-interviews-texts/20190730175948/http://prostory.net.ua/ua/krytyka/336-detalizuvaty-temriavu">UA/ "Деталізувати темряву"— Керолін Крал про виставку Фоновий режим” в Eigen+Art Gallery в Лейпцигу</a>
 <br><br>
 ## 2016
