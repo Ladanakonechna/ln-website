@@ -22,7 +22,14 @@ Interview
 [R.E.P. Group in Conversation with Larissa Babij](https://artmargins.com/rep-group-conversation-larissa-babij/)
 <br>
 In Ukrainian:<br>
-["За мистецтво пасть порвьом!", або Як художники змінили українське мистецтво 20 років тому: 5 фактів про групу "Р.Е.П." Суспільне Культура](https://suspilne.media/culture/905817-za-mistectvo-past-porvom-abo-ak-hudozniki-zminili-ukrainske-mistectvo-20-rokiv-tomu-5-faktiv-pro-grupu-rep/)
+["За мистецтво пасть порвьом!", або Як художники змінили українське мистецтво 20 років тому: 5 фактів про групу "Р.Е.П." Суспільне Культура](https://suspilne.media/culture/905817-za-mistectvo-past-porvom-abo-ak-hudozniki-zminili-ukrainske-mistectvo-20-rokiv-tomu-5-faktiv-pro-grupu-rep/)<br>
+Cтатті про виставку "Р.Е.П. Історія" — ретроспектива до 20-річчя групи Р.Е.П., NAMU, 2024 
+<br>
+[Контрольна робота учня молодших класів з уроку історії Р.Е.П. Олексій Мінько. Artslooker](https://conifer.rhizome.org/LadaNakonechna/reviews-interviews-texts/20250225123036/https://artslooker.com/kontrolna-robota-uchnia-molodshykh-klasiv-z-uroku-istorii-r-e-p/)<br>
+
+[«Р.Е.П. Історія»: критичний погляд на феномен групи. Юлія Манукян. Korydor](https://conifer.rhizome.org/LadaNakonechna/reviews-interviews-texts/20250225121610/https://korydor.in.ua/ua/bez-rubriki/r-e-p-istoriia-krytychnyj-pohliad-na-fenomen-hrupy.html?fbclid=IwY2xjawIhhi9leHRuA2FlbQIxMQABHQUw6TwAxlL5s4srOpo7tk-ckDA6pF9lhWftXPdxjkyxPRdpQMt42JWtSg_aem_C-EkAD4kcHhp_CKBeY5_ew)
+<br>
+
 </section>
 
 
