@@ -6,8 +6,8 @@ thumb_url: /assets/images/power-of-art/power-of-art.jpg
 ---
 
 <section markdown="1" class="EN">
-Gaze through the lilac in Kiev Botanical Garden,
-directed towards the river Dnepr<br>
+Gaze through the lilac in Kyiv Botanical Garden,<br>
+directed towards the river Dnipro<br><br>
 Paper, transfer printing, pencil drawing, 2012<br>
 Various sizes, ranging 30x40 cm<br>
 <br>
