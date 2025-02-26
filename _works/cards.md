@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cards
+title: Cards (Made in…)
 year: 2010
 thumb_url: /assets/images/cards/Cards-min.JPG
 ---
