@@ -2,7 +2,7 @@
 layout: page
 title: Historical pictures of the contemporary ruins
 year: 2019
-thumb_url: /assets/images/historical-pictures-of-the-contemporary-ruins/ruins3.jpg
+thumb_url: /assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures8.jpg
 ---
 
 <section markdown="1" class="EN">
@@ -26,6 +26,8 @@ of contemporary state of cultural dominance over the nature. This
 certain ruins are unknown formations which detected in the center of
 history of Ukraine.
 
+<br><br>
+<br><br>
 <br><br>
 ![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures5.jpg)
