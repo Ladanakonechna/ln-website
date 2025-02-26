@@ -25,6 +25,12 @@ epochs, establishing the cultural bond of the past with nowadays, but
 of contemporary state of cultural dominance over the nature. This
 certain ruins are unknown formations which detected in the center of
 history of Ukraine.
+
+<br><br>
+![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures.jpg)
+![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures5.jpg)
+![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures6.jpg)
+![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures7.jpg)
 </section>
 
 <section markdown="1" class="UKR">
