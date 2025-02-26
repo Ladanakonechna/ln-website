@@ -2,7 +2,7 @@
 layout: page
 title: Popular view
 year: 2012
-thumb_url: /assets/images/power-of-art/power-of-art.jpg
+thumb_url: /assets/images/popular-view/popular picture27.5х37.5.jpg
 ---
 
 <section markdown="1" class="EN">
