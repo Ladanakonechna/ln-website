@@ -25,6 +25,21 @@ The exhibition space as a picture frame also provides a framework for our percep
 <br>
 <br>
 *Text by Kateryna Badianova*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-exposition.jpg)
+<br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground15.jpg)
+<br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground16.jpg)
+<br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground17.jpg)
+<br>
 </section>
 
 <section markdown="1" class="UKR">
@@ -51,5 +66,13 @@ The exhibition space as a picture frame also provides a framework for our percep
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground5.jpg)
 <br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground10.jpg)
 <br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground9.jpg)
+<br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground14.jpg)
+<br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground12.jpg)
+<br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground13.jpg)
 </section>
