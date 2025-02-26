@@ -6,12 +6,14 @@ thumb_url: /assets/images/cards/Cards-min.JPG
 ---
 
 <section markdown="1" class="EN">
-![imagetest]({{site.baseurl}}/assets/images/cards/cards-exposition.jpg#50)<br>
-*Exposition: MOCAK — Museum of<br>Contemporary Art in Krakow, 2013*
-<br>
 Long term project, from 2010 <br>
 Paper, pencil, working time <br>
 64х46 cm each drawing 
+<br>
+<br>
+![imagetest]({{site.baseurl}}/assets/images/cards/cards-exposition.jpg#50)<br>
+*Exposition: MOCAK — Museum of<br>Contemporary Art in Krakow, 2013*
+<br>
 <br>
 <br>
 The price of drawing evaluated according the average wage is paid to the worker in the country where it was made.<br>
