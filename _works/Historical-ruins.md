@@ -29,6 +29,8 @@ history of Ukraine.
 <br><br>
 <br><br>
 <br><br>
+<br><br>
+<br><br>
 ![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures5.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/historical-pictures-of-the-contemporary-ruins/Historical-pictures6.jpg)
