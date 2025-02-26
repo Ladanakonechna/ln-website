@@ -28,17 +28,13 @@ The exhibition space as a picture frame also provides a framework for our percep
 <br>
 <br>
 <br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-exposition.jpg#50)
 <br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground15.jpg#50)
 <br>
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground16.jpg#50)
 <br>
-
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-exposition.jpg)
-<br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground15.jpg)
-<br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground16.jpg)
-<br>
-![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground17.jpg)
+![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground17.jpg#50)
 <br>
 </section>
 
