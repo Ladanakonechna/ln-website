@@ -27,7 +27,9 @@ The exhibition space as a picture frame also provides a framework for our percep
 *Text by Kateryna Badianova*
 <br>
 <br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-exposition.jpg)
+<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/below-ground-level/below-ground15.jpg)
 <br>
