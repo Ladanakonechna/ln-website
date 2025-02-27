@@ -26,7 +26,7 @@ From the Artsvit Gallery collection
 #### Слава в ракурсі
 <br>
 Фотографії зі знятим верхнім шаром, 2021
-<br>
+<br><br>
 Джерела зображення:<br>
 Володимир Куткін «Ранок на хімзаводі». Із серії «Донбас». «Сталеві артерії» (1975);<br> 
 Петро Магро «Праця створила людину» (1974);<br> 
@@ -35,7 +35,11 @@ From the Artsvit Gallery collection
 З колекції галереї Артсвіт
 <br>
 <br>
-![imagetest]({{site.baseurl}}/assets/images/instead-of-sun/instead1.png)
+<br>
+<br>
+<br>
+<br>
+![imagetest]({{site.baseurl}}/assets/images/instead-of-sun/instead2.png)
 
 
 
