@@ -12,7 +12,6 @@ Lightbox, drawing over c-print, 2009
 <br>
 <br>
 <br>
-<br>
 ![imagetest]({{site.baseurl}}/assets/images/power-of-art/power.jpg)
 <br>
 <br>
@@ -27,7 +26,7 @@ Lightbox, drawing over c-print, 2009
 <br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/power-of-art/power1.jpg)
-*with light*
+*with light*<br>
 *зі світлом*
 
 
