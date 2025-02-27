@@ -32,7 +32,7 @@ From the Artsvit Gallery collection; <br>
 2. Меморіал Вічної Слави, місто Суми 
 <br>
 <br>
-1. ![imagetest]({{site.baseurl}}/assets/images/glory-in-foreshortening/glory-in-foreshortening2.jpg#50)
+![imagetest]({{site.baseurl}}/assets/images/glory-in-foreshortening/glory-in-foreshortening2.jpg#50)
 
 
 
