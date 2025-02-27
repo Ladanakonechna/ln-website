@@ -45,8 +45,6 @@ The drawings have the descriptions, for example:
 
 ![imagetest]({{site.baseurl}}/assets/images/cards/Cards11.jpg)
 
-![imagetest]({{site.baseurl}}/assets/images/cards/Cards12.jpg)
-
 ![imagetest]({{site.baseurl}}/assets/images/cards/Cards13.jpg)
 
 ![imagetest]({{site.baseurl}}/assets/images/cards/Cards14.jpg)
