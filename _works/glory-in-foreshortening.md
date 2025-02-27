@@ -6,8 +6,9 @@ thumb_url: /assets/images/glory-in-foreshortening/glory-in-foreshortening.png
 ---
 
 <section markdown="1" class="EN">
-Drawing on paper, 2021<br>
-Source images:<br> 
+Drawing on paper, 2021<br><br><br><br>
+
+Source images:
 1. Mykola Rodzin. Construction Has Started, from the series Kakhovska HES [Hydroelectric power station] (1951-1957). Paper, color etching, aquatint.<br> 
 From the Artsvit Gallery collection; <br>
 2. Eternal Glory Memorial, Sumy, Ukraine
@@ -15,6 +16,9 @@ From the Artsvit Gallery collection; <br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/glory-in-foreshortening/glory-in-foreshortening.png)
 
+<br>
+<br>
+![imagetest]({{site.baseurl}}/assets/images/glory-in-foreshortening/glory_main.jpg)
 </section>
 
 <section markdown="1" class="UKR">
@@ -30,8 +34,7 @@ From the Artsvit Gallery collection; <br>
 <br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/glory-in-foreshortening/glory-in-foreshortening2.jpg#50)
-<br>
-![imagetest]({{site.baseurl}}/assets/images/glory-in-foreshortening/glory_main.jpg)
+
 
 
 
