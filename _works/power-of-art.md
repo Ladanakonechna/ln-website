@@ -9,6 +9,10 @@ thumb_url: /assets/images/power-of-art/power-of-art.jpg
 Lightbox, drawing over c-print, 2009
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 ![imagetest]({{site.baseurl}}/assets/images/power-of-art/power.jpg)
 <br>
 <br>
@@ -21,11 +25,10 @@ Lightbox, drawing over c-print, 2009
 Лайтбокс, малюнок поверх c-друку, 2009
 <br>
 <br>
-
-
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/power-of-art/power1.jpg)
-
+*with light*
+*зі світлом*
 
 
 
