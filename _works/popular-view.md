@@ -28,7 +28,6 @@ The source for this series of drawings are numerous images uploaded to the Inter
 <br>
 <br>
 
-
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/popular-view/popular picture27.5х37.5.jpg)
 
