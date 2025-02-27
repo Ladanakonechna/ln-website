@@ -9,7 +9,7 @@ thumb_url: /assets/images/power-of-art/power-of-art.jpg
 Lightbox, drawing over c-print, 2009
 <br>
 <br>
-
+![imagetest]({{site.baseurl}}/assets/images/power-of-art/power.jpg)
 <br>
 <br>
 </section>
@@ -24,11 +24,8 @@ Lightbox, drawing over c-print, 2009
 
 
 <br>
-![imagetest]({{site.baseurl}}/assets/images/power-of-art/power-of-art.jpg)
+![imagetest]({{site.baseurl}}/assets/images/power-of-art/power1.jpg)
 
-![imagetest]({{site.baseurl}}/assets/images/power-of-art/power-of-art.jpg)
-
-![imagetest]({{site.baseurl}}/assets/images/power-of-art/power-of-art.jpg)
 
 
 

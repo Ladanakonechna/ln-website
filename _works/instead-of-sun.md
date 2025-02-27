@@ -46,8 +46,8 @@ From the Artsvit Gallery collection
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/instead-of-sun/instead2.png)
 ![imagetest]({{site.baseurl}}/assets/images/instead-of-sun/instead2b.jpg#50)<br>
-*Vasyl Khvorost. Industrial Land (1973)*<br>
-*Василь Хворост «Край індустріальний»*
+*Vasyl Khvorost. Industrial Land. (1973)*<br>
+*Василь Хворост «Край індустріальний». (1973)*
 
 
 </section>
