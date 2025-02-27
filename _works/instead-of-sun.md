@@ -20,7 +20,7 @@ From the Artsvit Gallery collection
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/instead-of-sun/instead1.png)
 ![imagetest]({{site.baseurl}}/assets/images/instead-of-sun/instead1b.jpg#50)<br>
-*Volodymyr Kutkin. Morning at the Chemical Plant. (1975)*
+*Volodymyr Kutkin. Morning at the Chemical Plant. (1975)*<br>
 *Володимир Куткін «Ранок на хімзаводі». (1975)*
 </section>
 
@@ -46,7 +46,7 @@ From the Artsvit Gallery collection
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/instead-of-sun/instead2.png)
 ![imagetest]({{site.baseurl}}/assets/images/instead-of-sun/instead2b.jpg#50)<br>
-*Vasyl Khvorost. Industrial Land (1973)*
+*Vasyl Khvorost. Industrial Land (1973)*<br>
 *Василь Хворост «Край індустріальний»*
 
 
