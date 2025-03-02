@@ -14,5 +14,4 @@ permalink: /writing/
     {% assign cur_year = text.year %}
 
 ## {{cur_year}}
-  {% endif %}
-[{{text.title}}]({{site.baseurl}}{{text.url}}) {% endfor %}
+  {% endif %}[{{text.title}}]({{site.baseurl}}{{text.url}}){% endfor %}
