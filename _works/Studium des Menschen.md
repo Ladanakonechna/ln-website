@@ -20,6 +20,7 @@ Galerie EIGEN+ART Leipzig/Berlin, Leipzig, 2022
 </section>
 ![imagetest]({{site.baseurl}}/assets/images/Studium-des-Menschen/Studium_Menschen3.png)
 ![imagetest]({{site.baseurl}}/assets/images/Studium-des-Menschen/Studium_Menschen4.png)
+![imagetest]({{site.baseurl}}/assets/images/Studium-des-Menschen/Studium_Menschen5.png)
 *Stahl, Plastik, Pappmaché
 178 x 15 x 83 cm*
 <section markdown="1" class="UKR">
