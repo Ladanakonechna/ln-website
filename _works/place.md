@@ -7,9 +7,10 @@ thumb_url: /assets/images/place/place-3.png
 
 <section markdown="1" class="EN">
 Site specific project (drawing on the wall), 2009<br><br>
+<br>
+<br>
+<br>
 Exhibition view: Center for Contemporary Art at NaUKMA, Kyiv, Ukraine
-<br>
-<br>
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/place/place-3.png)<br>
 ![imagetest]({{site.baseurl}}/assets/images/place/place-1.png)<br>
