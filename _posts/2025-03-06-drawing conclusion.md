@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Drawing conclusion. Art as record, as statement, as confusion. Artists talk, Museum unter Tage, Bochum
-date:   2025-02-25
+date:   2025-03-06
 categories: news
 ---
 
