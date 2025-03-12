@@ -7,7 +7,7 @@ categories: news
 
 <section markdown="1" class="EN">
 
-Ukraine at the Leipzig Book Fair: Voices of resilience and cultural renewal
+Ukraine at the Leipzig Book Fair: Voices of resilience and cultural renewal.<br>
 Series of events.
 
 30.03.2025, 10.30-11.30<br>
