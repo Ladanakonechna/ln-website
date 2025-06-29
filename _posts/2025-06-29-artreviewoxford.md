@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lada Nakonechna's works featured at the Art Review Oxford, Issue 12
+title:  Lada Nakonechna's artworks featured in Art Review Oxford, Issue 12
 date:   2025-06-29
 categories: news
 ---
