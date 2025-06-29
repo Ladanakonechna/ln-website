@@ -8,7 +8,8 @@ categories: news
 <section markdown="1" class="EN">
 
 Looking into the Gaps ІІ is an exhibition project in progress curated by Nikita Kadan<br>
-Open at the Artsvit Gallery and DCCC, Dnipro, Ukraine from June 26 to September 20, 2025.<br><br>
+Open at the Artsvit Gallery and DCCC, Dnipro, Ukraine from June 26 to September 20, 2025.<br><br><br>
+![imagetest]({{site.baseurl}}/assets/images/posts/Dnipro_Kadan.png#50)
 
 Opening June 26 о 18:30 <br>
 Artsvit Gallery and the Dnipro Center for Contemporary Culture<br> 
