@@ -6,7 +6,7 @@ permalink: /collaborations/
 
 <section markdown="1" class="EN">
 
-## Involvement in a number of group projects, institutions and collectives
+## INVOLVEMENT IN A NUMBER OF GROUP PROJECTS, INSTITUTIONS AND COLLECTIVES
 <br>
 Member of the R.E.P. artists group [R.E.P. artists group]({{ site.baseurl }}{% link collaborations/rep.md %}) (since 2005)<br>
 <br>
@@ -28,7 +28,7 @@ Co-curator of [Creating Ruin] (https://creatingruin.net/), an online collection 
 <br>
 
 ## TEACHING PRACTICE
-Co-curator of educational and research program [Course of Art](https://www.courseofart.com/)(since 2012)<br>
+Co-curator of educational and research program [Course of Art](https://www.courseofart.com/) (since 2012)<br>
 
 </section>
 
