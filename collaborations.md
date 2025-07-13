@@ -16,10 +16,10 @@ Cofounder of [The Method Fund](https://www.methodfund.org/)—an independent, no
 <br>
 Member of the curatorial and activist union Hudrada (since 2008)<br>
 <br>
-Co-editor of [Prostory] (https://prostory.net.ua/ua/), an online magazine of art, literature, and politics (since 2016) <br>
+Co-editor of [Prostory](https://prostory.net.ua/ua/), an online magazine of art, literature, and politics (since 2016) <br>
 
 ## CURATORIAL PRACTICE
-Co-curator of PEILUNG ({{ site.baseurl }}{% link collaborations/peilung.md %}), a series of interdisciplinary encounters with artists and cultural practitioners from Ukraine. 
+Co-curator of [PEILUNG]({{ site.baseurl }}{% link collaborations/peilung.md %}), a series of interdisciplinary encounters with artists and cultural practitioners from Ukraine. 
 <br> Curated with Bettina Klein
 <br>
 <br>
