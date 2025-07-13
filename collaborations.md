@@ -23,7 +23,7 @@ Co-curator of [PEILUNG]({{ site.baseurl }}{% link collaborations/peilung.md %}),
 <br> Curated with Bettina Klein
 <br>
 <br>
-Co-curator of [Creating Ruin] (https://creatingruin.net/), an online collection of works by artists and researchers focusing on issues of the past 
+Co-curator of [Creating Ruin](https://creatingruin.net/), an online collection of works by artists and researchers focusing on issues of the past 
 <br> Curated with Kateryna Badianova
 <br>
 
