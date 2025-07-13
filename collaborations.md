@@ -6,7 +6,6 @@ permalink: /collaborations/
 
 <section markdown="1" class="EN">
 
-## INVOLVEMENT IN A NUMBER OF GROUP PROJECTS, INSTITUTIONS AND COLLECTIVES
 <br>
 Member of the R.E.P. artists group [R.E.P. artists group]({{ site.baseurl }}{% link collaborations/rep.md %}) (since 2005)<br>
 <br>
