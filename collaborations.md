@@ -18,17 +18,20 @@ Cofounder of [The Method Fund](https://www.methodfund.org/)—an independent, no
 Co-editor of [Prostory](https://prostory.net.ua/ua/), an online magazine of art, literature, and politics (2016-2022) <br>
 <br>
 
-#CURATORIAL COLLABORATIONS# 
+##CURATORIAL COLLABORATIONS##
+<br> 
 Co-curator of [PEILUNG]({{ site.baseurl }}{% link collaborations/peilung.md %}), a series of interdisciplinary encounters with artists and cultural practitioners from Ukraine. 
-<br> Curated with Bettina Klein
+<br> Curated with Bettina Klein<br> (2022-2025)
 <br>
+<br> 
 Co-curator of [Creating Ruin](https://creatingruin.net/), an online collection of works by artists and researchers focusing on issues of the past 
-<br> Curated with Kateryna Badianova
+<br> Curated with Kateryna Badianova<br> 
+Project by the Method Fund in collaboration with Reading International, 2018
 <br>
+<br> 
 Member of the curatorial and activist union Hudrada (since 2008)<br>
 <br>
-
-
+<br> 
 
 
 </section>
