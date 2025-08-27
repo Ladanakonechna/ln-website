@@ -7,7 +7,7 @@ categories: news
 
 <section markdown="1" class="EN">
 
-![imagetest]({{site.baseurl}}/assets/images/posts/radical-hope_baner_970x250px.jpg#50)<br>
+![imagetest]({{site.baseurl}}/assets/images/posts/radical-hope_baner_970x250px.jpg)<br>
 
 [Golden Thread Gallery ](https://goldenthreadgallery.co.uk/event/radical-hope-works-from-the-arsenal-gallery-collection/?fbclid=IwY2xjawMTtYNleHRuA2FlbQIxMAABHoBdAl69eBQ8X1bPjTkWK42rP7IyrVoUdYjc5zUPrjPAsSojJ4d5Bbm8y0IC_aem_NwJYQ8W27g48fjSNTL552g
 <br><br><br>) is proud to present Radical Hope, a new exhibition developed in collaboration with Arsenal Gallery in Białystok, Poland. Curated from Collection II, one of Poland’s most significant collections of contemporary art, the exhibition offers a timely reflection on uncertainty, resilience, and the transformative potential of art.
