@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Radical Hope, Golden Thread Gallery, Belfast
-date:   2025-08-27
+date:   2025-08-26
 categories: news
 ---
 
