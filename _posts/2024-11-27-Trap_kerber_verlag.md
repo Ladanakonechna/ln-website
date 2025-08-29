@@ -17,7 +17,7 @@ Artists: Josef Albers, Joseph Beuys, Fritz Bleyl, Bettina Blohm, Pierre Bonnard,
 <br>
 <br>
 
-[KERBER publishing house](https://www.kerberverlag.com/en/2158/zeichnung)
+[KERBER publishing house](https://www.kerberverlag.com/de/buecher/zeichnung)
 <br><br>
 
 
