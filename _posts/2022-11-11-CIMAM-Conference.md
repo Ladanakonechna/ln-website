@@ -25,7 +25,7 @@ Kike España, Dr. Architect, Urban researcher, La Casa Invisible, Malaga, Spain<
 Panel Discussion moderated by Manuel Borja-Villel, Director, Museo Nacional Centro de Arte Reina Sofía, Madrid
 
 
-[Watch the presentation of Lada Nakonechna titled Not Waiting for the Emergency. Collective practice in Ukraine that requires museums](http://excine.net/lecture-workshop-lada-nakonechna/)
+[Watch the presentation of Lada Nakonechna titled Not Waiting for the Emergency. Collective practice in Ukraine that requires museums](https://vimeo.com/781538168)
 
 </section>
 
