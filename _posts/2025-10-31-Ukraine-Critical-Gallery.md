@@ -6,8 +6,6 @@ categories: news
 ---
 
 <section markdown="1" class="EN">
-
-![imagetest]({{site.baseurl}}/assets/images/posts/KyivBiennial2025.jpg#50)<br>
 <br><br>
 31.10.–30.11.2025<br>
 Opening reception Thursday, October 30, 2025, 6–8 p.m.
