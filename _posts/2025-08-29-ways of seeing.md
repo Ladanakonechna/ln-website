@@ -30,6 +30,7 @@ An important context for the exhibition is Gifts of Friendship – nearly one hu
 The exhibition is accompanied by two publications: an illustrated catalogue with essays by Mieke Bal and Łukasz Zaremba, and an anthology of texts by artists reflecting on vision, perception, and the co-creation of meaning. Like the exhibition itself, these books treat art as a mode of thinking and as a dialogue with reality.
 <br><br>
 [Website of the Muzeum Sztuki in Łódź](https://msl.org.pl/en/ways-seeing)
+[Merge Visible at the 20th and 21st Century Art Collection of the Muzeum Sztuki in Łódź](https://zasoby.msl.org.pl/arts/show/0/0?mcollection_id=5&artist=Nakonechna&text=&dating_start=&dating_end=&acq_date_start=&acq_date_end=&keywords=&themedshow_id=0&sort_type=)
 
 
 
