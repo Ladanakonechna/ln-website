@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Displaced Perspectives Seminar
+title:  Displaced Perspectives, Seminar speaker. FU Berlin
 date:   2026-05-04
 categories: news
 ---
