@@ -13,6 +13,7 @@ categories: news
 
 Seminar **Displaced Perspectives**<br>
 Orginised by Dr. Ewa Sułek
+<br>
 04.05.2026 - 22.06.2026<br>
 <br>
 FU Berlin, Osteuropa Institut<br>
