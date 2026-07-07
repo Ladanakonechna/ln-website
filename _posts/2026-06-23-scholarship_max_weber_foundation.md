@@ -24,6 +24,9 @@ Research Center Ukraine / Max Weber Foundation, Lviv
 ![imagetest]({{site.baseurl}}/assets/images/max_weber/presentation_lviv2.jpg)
 <br>
 ![imagetest]({{site.baseurl}}/assets/images/max_weber/presentation_lviv3.jpg)
+<br>
+![imagetest]({{site.baseurl}}/assets/images/max_weber/presentation_lviv4.jpg)
+
 </section>
 
 
