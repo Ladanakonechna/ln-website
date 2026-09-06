@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  WAS ICH WILL. Die Künstlerinnen der Galerie
-Group exhibition
+title:  Group exhibition WAS ICH WILL Die Künstlerinnen der Galerie Eigen+Art
 date:   2026-09-05
 categories: news
 ---
