@@ -6,14 +6,7 @@ thumb_url: /assets/images/swag/Swag2.jpg
 ---
 
 <section markdown="1" class="EN">
-or Conditioned reflexes #2 (tolerance, compromise, conformism), 2023<br>
-Museum de Fundatie, Zwolle
-<br>
-
 ![imagetest]({{site.baseurl}}/assets/images/swag/Swag1.png#50)
-<br>
-<br>
-Swag
 <br><br>
 Installation<br>
 Crystals from chandeliers, video
@@ -33,8 +26,8 @@ Lada Nakonechna does not reconstruct the moment of the tragedy itself — the Ru
 <section markdown="1" class="UKR">
 <br><br>
 <br><br>
-![imagetest]({{site.baseurl}}/assets/images/swag/Swag2.jpeg)
 ![imagetest]({{site.baseurl}}/assets/images/swag/Swag3.jpg)
+![imagetest]({{site.baseurl}}/assets/images/swag/Swag2.jpg)
 
 <br><br>
 Здобич
