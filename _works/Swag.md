@@ -21,16 +21,15 @@ Lada Nakonechna does not reconstruct the moment of the tragedy itself — the Ru
 
 *The work was commissioned by the Ujazdowski Castle Centre for Contemporary Art, Warsaw*
 <br><br>
+[Link to the video](https://vimeo.com/1181742687?fl=pl&fe=sh)
 </section>
 
 <section markdown="1" class="UKR">
-<br><br>
-<br><br>
 ![imagetest]({{site.baseurl}}/assets/images/swag/Swag3.jpg)
 ![imagetest]({{site.baseurl}}/assets/images/swag/Swag2.jpg)
 
 <br><br>
-Здобич
+**Здобич**
 <br><br>
 Інсталяція<br>
 Kришталі зі люстр, відео
