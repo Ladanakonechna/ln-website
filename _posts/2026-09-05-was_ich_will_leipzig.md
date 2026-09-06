@@ -2,7 +2,7 @@
 layout: post
 title:  WAS ICH WILL. Die Künstlerinnen der Galerie
 Group exhibition
-date:   2025-09-05
+date:   2026-09-05
 categories: news
 ---
 
