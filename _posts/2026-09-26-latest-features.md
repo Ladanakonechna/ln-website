@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Latest Features. Ocula & Most
+title:  Latest Features Ocula & Most
 date:   2026-09-26
 categories: news
 ---
