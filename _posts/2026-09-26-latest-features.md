@@ -15,7 +15,6 @@ Not all art being made in Ukraine since Russia’s full‑scale invasion is abou
 By Nikola Budzińska – 29 September 2026
 <br>
 [Link to the article](https://ocula.com/magazine/spotlight/ukraine-artists-war-restrictions-internationa/)
-
 <br><br><br><br>
 MOST Magazine
 <br><br>
