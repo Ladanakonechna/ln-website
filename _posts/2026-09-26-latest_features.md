@@ -28,7 +28,6 @@ By Kateryna Iakovlenko – 1 October 2026
 
 </section>
 
-
 <section markdown="1" class="UKR">
 
 
