@@ -12,7 +12,7 @@ Written in 2021, it is a reflection on this pedagogical experience. Thinking thr
 <br><br>
 Over the past two decades, non-formal art education has become one of the key environments shaping contemporary art in Ukraine. Self-education initiatives, independent courses, and temporary learning platforms emerged in response to the limitations of the academic system and the lack of institutional infrastructure. They not only created spaces for the transmission of knowledge, but also became sites for developing new forms of collectivity, collaboration, and critical thinking. One such initiative was the Course of Art of the Method Fund, founded in 2012 by artist Lada Nakonechna and theorist Kateryna Badianova. This educational program functioned as an experimental environment in which art education was understood not as the delivery of established knowledge, but as a shared process of researching the conditions of artistic practice and its social relations. 
 <br><br>
-Read at [Artslooker](https://artslooker.com/en/today-we-will-not-meet/)
+Read at the [Artslooker](https://artslooker.com/en/today-we-will-not-meet/)
 <br>
 
 
@@ -22,11 +22,11 @@ Read at [Artslooker](https://artslooker.com/en/today-we-will-not-meet/)
 
 <section markdown="1" class="UKR">
 
-З дозволу авторки Artslooker публікує текст Лади Наконечної **Сьогодні ми не зустрінемосяю** <br> Написаний у 2021 році, він є рефлексією над цим досвідом освітянства. Розмірковуючи про взаємини між учителем і учнем, про суперечності колективності та про методи спільної роботи, авторка розглядає мистецьку освіту як простір, у якому формуються не лише знання і навички, а й самі умови співбуття у полі сучасного мистецтва.
+З дозволу авторки Artslooker публікує текст Лади Наконечної **Сьогодні ми не зустрінемося.** <br> Написаний у 2021 році, він є рефлексією над цим досвідом освітянства. Розмірковуючи про взаємини між учителем і учнем, про суперечності колективності та про методи спільної роботи, авторка розглядає мистецьку освіту як простір, у якому формуються не лише знання і навички, а й самі умови співбуття у полі сучасного мистецтва.
 <br><br>
 Упродовж останніх двох десятиліть неформальна мистецька освіта стала одним із ключових середовищ формування сучасного мистецтва в Україні. Самоосвітні ініціативи, незалежні курси та тимчасові навчальні платформи виникали як відповідь на обмеження академічної системи та брак інституційної інфраструктури. Вони не лише створювали простір для передачі знань, а й ставали місцем вироблення нових форм колективності, співпраці та критичного мислення. Однією з таких ініціатив став заснований 2012 року «Курс мистецтва» Метод Фонду, створений художницею Ладою Наконечною та теоретикинею Катериною Бадяновою. Ця освітня програма функціонувала як експериментальне середовище, де мистецька освіта мислилася не як передавання усталеного знання, а як процес спільного дослідження умов мистецької практики та її соціальних взаємин. 
 <br><br>
-Читайте текст за посиланням на [artslooker](https://artslooker.com/sohodni-my-ne-zustrinemosia/)
+Читайте текст за посиланням на [Artslooker](https://artslooker.com/sohodni-my-ne-zustrinemosia/)
 <br>
 
 
