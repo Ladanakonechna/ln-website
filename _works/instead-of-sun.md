@@ -26,7 +26,7 @@ From the Artsvit Gallery collection
 
 <section markdown="1" class="UKR">
 
-#### Слава в ракурсі
+#### Замість сонця
 <br>
 Фотографії зі знятим верхнім шаром, 2021
 <br><br>
